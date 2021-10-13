@@ -11,11 +11,12 @@ http://201.168.205.12:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY
 http://201.168.205.12:8000/play/a0cu/index.m3u8
 
+#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/120px-HBO_Xtreme.svg.png", HBO XTREME
+http://201.168.205.12:8000/play/a096/index.m3u8
+
 #EXTINF:-1 tvg-name="FOX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", FOX ACTION
 http://201.168.205.12:8000/play/a098/index.m3u8
 
-#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/120px-HBO_Xtreme.svg.png", HBO XTREME
-http://201.168.205.12:8000/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX CINEMA" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", FOX CINEMA
 http://201.168.205.12:8000/play/a099/index.m3u8
