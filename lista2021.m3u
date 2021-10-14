@@ -41,28 +41,36 @@ http://201.168.205.12:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/108px-Investigation_Discovery_Logo_2018.svg.png", DISCOVERY ID
 http://201.168.205.12:8000/play/a0ch/index.m3u8
 
-#EXTINF:-1,ESTRELLAS
+#EXTINF:-1 tvg-name="ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/120px-Canal_de_las_Estrellas_logo.svg.png", ESTRELLAS
 http://201.168.205.12:8000/play/a0d4/index.m3u8
 
-#EXTINF:-1,FXM
+#EXTINF:-1 tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/120px-FXM_Logo.svg.png", FXM
 http://201.168.205.12:8000/play/a0cr/index.m3u8
 
-#EXTINF:-1,IMAGEN
+#EXTINF:-1 tvg-name="IMAGEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/120px-Logo-Imagen-TV-MX.png", IMAGEN
 http://201.168.205.12:8000/play/a0d5/index.m3u8
-#EXTINF:-1,LIFE TIME
+
+#EXTINF:-1 tvg-name="LIFE TIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png", LIFE TIME
 http://201.168.205.12:8000/play/a0ci/index.m3u8
+
 #EXTINF:-1,MC
 http://201.168.205.12:8000/play/a0co/index.m3u8
+
 #EXTINF:-1,MULTI PREMIER
 http://201.168.205.12:8000/play/a0cp/index.m3u8
+
 #EXTINF:-1,NATIONAL GEOGRAPHIC LA
 http://201.168.205.12:8000/play/a0cl/index.m3u8
+
 #EXTINF:-1,NICK JR
 http://201.168.205.12:8000/play/a0ck/index.m3u8
+
 #EXTINF:-1,PARAMOUNT CHANNEL
 http://201.168.205.12:8000/play/a0cs/index.m3u8
+
 #EXTINF:-1,RT
 http://201.168.205.12:8000/play/a0cn/index.m3u8
+
 #EXTINF:-1,SPACE
 http://201.168.205.12:8000/play/a0cg/index.m3u8
 #EXTINF:-1,WARNER
