@@ -26,6 +26,12 @@ http://201.168.205.12:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="foxmovies.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/120px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
 http://201.168.205.12:8000/play/a097/index.m3u8
 
+#EXTINF:-1 tvg-id="foxclassics.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/FOX-Classic-Logo-01.png/120px-FOX-Classic-Logo-01.png", FOX CLASSICS
+http://201.168.205.12:8000/play/a0do/index.m3u8
+
+#EXTINF:-1 tvg-id="foxfamily.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fox_Family_Movies_logo.png/120px-Fox_Family_Movies_logo.png" ,FOX FAMILY
+http://201.168.205.12:8000/play/a0dn/index.m3u8
+
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/225px-CinecanalLA.png", CINECANAL
 http://201.168.205.12:8000/play/a0cq/index.m3u8
 
@@ -83,10 +89,6 @@ http://201.168.205.12:8000/play/a0d7/index.m3u8
 http://201.168.205.12:8000/play/a0da/index.m3u8
 #EXTINF:-1,CNN
 http://201.168.205.12:8000/play/a0dl/index.m3u8
-#EXTINF:-1,FOX CLASSICS
-http://201.168.205.12:8000/play/a0do/index.m3u8
-#EXTINF:-1,FOX FAMILY
-http://201.168.205.12:8000/play/a0dn/index.m3u8
 #EXTINF:-1,FOX SPORT 3
 http://201.168.205.12:8000/play/a0dk/index.m3u8
 #EXTINF:-1,HISTORY 2
