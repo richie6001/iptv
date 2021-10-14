@@ -17,7 +17,7 @@ http://201.168.205.12:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", FOX ACTION
 http://201.168.205.12:8000/play/a098/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX CINEMA" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", FOX CINEMA
+#EXTINF:-1 tvg-id="STAR Cinema" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", FOX CINEMA
 http://201.168.205.12:8000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Life_logo.png/225px-Fox_Life_logo.png", FOX LIFE
