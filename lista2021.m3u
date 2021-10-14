@@ -1,21 +1,20 @@
 #EXTM3U
-#EXTM3U url-tvg="https://iptv.programadorx.cl/epg/gratis/abril/guide.xml"
-#EXTINF:-1 channel-id="1" epg-id="1" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://201.168.205.12:8000/play/a0c5/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus
+#EXTINF:-1 tvg-id="hboplus.la" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus
 http://201.168.205.12:8000/play/a0cv/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
 http://201.168.205.12:8000/play/a0ct/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY
 http://201.168.205.12:8000/play/a0cu/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/120px-HBO_Xtreme.svg.png", HBO XTREME
 http://201.168.205.12:8000/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", FOX ACTION
+#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", FOX ACTION
 http://201.168.205.12:8000/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX CINEMA" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", FOX CINEMA
@@ -24,7 +23,7 @@ http://201.168.205.12:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Life_logo.png/225px-Fox_Life_logo.png", FOX LIFE
 http://201.168.205.12:8000/play/a08y/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/120px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
+#EXTINF:-1 tvg-id="foxmovies.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/120px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
 http://201.168.205.12:8000/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/225px-CinecanalLA.png", CINECANAL
