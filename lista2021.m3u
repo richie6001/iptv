@@ -62,7 +62,7 @@ http://201.168.205.12:8000/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-id="MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MC.png/225px-MC.png", MC
 http://201.168.205.12:8000/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-id="multipremier.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/b9/20210222203027%21Multipremier_logo.svg/120px-Multipremier_logo.svg.png", MULTI PREMIER
+#EXTINF:-1 tvg-id="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/b9/20210222203027%21Multipremier_logo.svg/120px-Multipremier_logo.svg.png", MULTI PREMIER
 http://201.168.205.12:8000/play/a0cp/index.m3u8
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC LA
