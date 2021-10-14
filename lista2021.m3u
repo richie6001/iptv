@@ -32,7 +32,7 @@ http://201.168.205.12:8000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="foxfamily.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fox_Family_Movies_logo.png/120px-Fox_Family_Movies_logo.png" ,FOX FAMILY
 http://201.168.205.12:8000/play/a0dn/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/225px-CinecanalLA.png", CINECANAL
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/225px-CinecanalLA.png", CINECANAL
 http://201.168.205.12:8000/play/a0cq/index.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png", AZTECA UNO
