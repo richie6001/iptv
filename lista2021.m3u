@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png",HBO
 http://201.168.205.12:8000/play/a0c5/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus
