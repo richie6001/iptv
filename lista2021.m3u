@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U url-tvg="https://iptv.programadorx.cl/epg/gratis/abril/guide.xml"
 #EXTINF:-1 channel-id="1" epg-id="1" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://201.168.205.12:8000/play/a0c5/index.m3u8
 
