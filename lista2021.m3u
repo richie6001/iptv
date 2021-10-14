@@ -6,7 +6,7 @@ http://201.168.205.12:8000/play/a0c5/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus
 http://201.168.205.12:8000/play/a0cv/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
 http://201.168.205.12:8000/play/a0ct/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY
