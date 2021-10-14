@@ -20,7 +20,7 @@ http://201.168.205.12:8000/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="FOX CINEMA" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", FOX CINEMA
 http://201.168.205.12:8000/play/a099/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Life_logo.png/225px-Fox_Life_logo.png", FOX LIFE
+#EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Life_logo.png/225px-Fox_Life_logo.png", FOX LIFE
 http://201.168.205.12:8000/play/a08y/index.m3u8
 
 #EXTINF:-1 tvg-id="foxmovies.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/120px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
@@ -145,12 +145,6 @@ http://201.168.205.12:8000/play/a092/index.m3u8
 http://201.168.205.12:8000/play/a08z/index.m3u8
 #EXTINF:-1,FOX SPORT 2
 http://201.168.205.12:8000/play/a090/index.m3u8
-#EXTINF:-1,XXX PLAY BOY +18
-http://201.168.205.12:8000/play/a09a/index.m3u8
-#EXTINF:-1,XXX SEX XTREME +18
-http://201.168.205.12:8000/play/a09c/index.m3u8
-#EXTINF:-1,XXX VENUS +18
-http://201.168.205.12:8000/play/a09b/index.m3u8
 #EXTINF:-1,CINE LATINO
 http://201.168.205.12:8000/play/a08u/index.m3u8
 #EXTINF:-1,FOX CHANNEL
@@ -195,3 +189,12 @@ http://201.168.205.12:8000/play/a0b1/index.m3u8
 http://201.168.205.12:8000/play/a0b6/index.m3u8
 #EXTINF:-1,VIDEO ROLA
 http://201.168.205.12:8000/play/a0b5/index.m3u8
+
+#EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,XXX PLAY BOY +18
+http://201.168.205.12:8000/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-id="sextreme.co" tvg-logo="https://3.bp.blogspot.com/-aPWVjFyaD8M/TeTui7IfuEI/AAAAAAAAPtA/PjmZlZBeHBc/s1600/sextreme.png", XXX SEX XTREME +18
+http://201.168.205.12:8000/play/a09c/index.m3u8
+
+#EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS +18
+http://201.168.205.12:8000/play/a09b/index.m3u8
