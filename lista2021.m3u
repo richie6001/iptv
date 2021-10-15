@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,▬ Canales by Richie6001 ▬
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://201.168.205.12:8000/play/a0c5/index.m3u8
 
