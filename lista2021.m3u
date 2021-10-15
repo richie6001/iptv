@@ -84,8 +84,9 @@ http://201.168.205.12:8000/play/a0da/index.m3u8
 #EXTINF:-1 tvg-id="foxpremiumseries.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png/120px-Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png",FOX PREMIUM SERIES
 http://201.168.205.12:8000/play/a0c6/index.m3u8
 
-#EXTINF:-1,HISTORY 2
+#EXTINF:-1 tvg-id="history2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/120px-History2Logo2019.png",HISTORY 2
 http://201.168.205.12:8000/play/a0dj/index.m3u8
+
 #EXTINF:-1,HOLA TV
 http://201.168.205.12:8000/play/a0db/index.m3u8
 #EXTINF:-1,MILENNIO
