@@ -87,20 +87,27 @@ http://201.168.205.12:8000/play/a0c6/index.m3u8
 #EXTINF:-1 tvg-id="history2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/120px-History2Logo2019.png",HISTORY 2
 http://201.168.205.12:8000/play/a0dj/index.m3u8
 
-#EXTINF:-1,HOLA TV
+#EXTINF:-1 tvg-id="holatv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/120px-%C2%A1HOLA%21TVlogo.jpg",HOLA TV
 http://201.168.205.12:8000/play/a0db/index.m3u8
-#EXTINF:-1,MILENNIO
+
+#EXTINF:-1 tvg-id="milennio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/120px-Milenio_Television.png",MILENNIO
 http://201.168.205.12:8000/play/a0dm/index.m3u8
-#EXTINF:-1,NATGEO KIDS
+
+#EXTINF:-1 tvg-id="natgeokids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/120px-Natgeo_Kids_logo.svg.png",NATGEO KIDS
 http://201.168.205.12:8000/play/a0dh/index.m3u8
-#EXTINF:-1,TBS
+
+#EXTINF:-1 tvg-id="tbs.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/120px-TBS_logo_2016.svg.png",TBS
 http://201.168.205.12:8000/play/a0dc/index.m3u8
-#EXTINF:-1,A&E
+
+#EXTINF:-1 tvg-id="aande.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png",A&E
 http://201.168.205.12:8000/play/a0bv/index.m3u8
-#EXTINF:-1,BOOMERAN
+
+#EXTINF:-1 vg-id="boomerang.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/120px-Boomerang_tv_logo.png",BOOMERANG
 http://201.168.205.12:8000/play/a0c1/index.m3u8
-#EXTINF:-1,CARTOON NETWORK
+
+#EXTINF:-1 tvg-id="cartoonnetwork.co tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/120px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 http://201.168.205.12:8000/play/a0c0/index.m3u8
+
 #EXTINF:-1,NATIONAL GEOGRAPHIC LA
 http://201.168.205.12:8000/play/a0cl/index.m3u8
 #EXTINF:-1,DISCOVERY TURBO
