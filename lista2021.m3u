@@ -216,3 +216,6 @@ http://201.168.205.12:8000/play/a09c/index.m3u8
 
 #EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS +18
 http://201.168.205.12:8000/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-id="PENTHOUSE" tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_15F_8_3_130000_0_0_0.png", XXX Penthouse Quickies HD
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/6669
