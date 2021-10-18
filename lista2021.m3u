@@ -146,7 +146,8 @@ http://201.168.205.12:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_22_Logo_2011.jpg/112px-Canal_22_Logo_2011.jpg",CANAL 22
 http://201.168.205.12:8000/play/a0d7/index.m3u8
-#EXTINF:-1tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" ,LETRA A
+
+#EXTINF:-1tvg-id="antena3.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" ,ANTENA 3
 http://201.168.205.12:8000/play/a0bu/index.m3u8
 
 #EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://canalonce.mx/images/logo-once-horizontal-blanco118-B-118x38.png" ,ONCE
