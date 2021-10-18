@@ -144,7 +144,7 @@ http://201.168.205.12:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://iconape.com/wp-content/png_logo_vector/azteca-7.png",AZTECA 7
 http://201.168.205.12:8000/play/a0fm/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_XEIMT-TV.svg",CANAL 22
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_22_Logo_2011.jpg/112px-Canal_22_Logo_2011.jpg",CANAL 22
 http://201.168.205.12:8000/play/a0d7/index.m3u8
 #EXTINF:-1tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" ,LETRA A
 http://201.168.205.12:8000/play/a0bu/index.m3u8
