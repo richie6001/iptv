@@ -181,17 +181,23 @@ http://201.168.205.12:8000/play/a0dk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",CINE LATINO
 http://201.168.205.12:8000/play/a08u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png",STAR CHANNEL
+
+#EXTINF:-1 tvg-id="foxchannel.mx" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png",STAR CHANNEL
 http://201.168.205.12:8000/play/a08v/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/47/7f/4c/477f4c5b3cd6733171842bf8ffc3b717.jpg",ANIMAL PLANET
 http://201.168.205.12:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",D KIDS
+
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",D KIDS
 http://201.168.205.12:8000/play/a0an/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/93/0c/74/930c74e55f7c95bae09f5c420931ebcf.jpg",DISNEY CHANNEL
+
+#EXTINF:-1 tvg-id="disney.mx" tvg-logo="https://i.pinimg.com/originals/93/0c/74/930c74e55f7c95bae09f5c420931ebcf.jpg",DISNEY CHANNEL
 http://201.168.205.12:8000/play/a0al/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/89/13/35/891335ab8b899c23d65fc248c9616eae.jpg",HISTORY CHANNEL
+
+#EXTINF:-1 tvg-id="history.mx" tvg-logo="https://i.pinimg.com/originals/89/13/35/891335ab8b899c23d65fc248c9616eae.jpg",HISTORY CHANNEL
 http://201.168.205.12:8000/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV
+
+#EXTINF:-1 tvg-id="mtv.co" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV
 http://201.168.205.12:8000/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.co" tvg-logo="https://i.imgur.com/DpHgTsR.png",NICK
@@ -200,16 +206,21 @@ http://201.168.205.12:8000/play/a0am/index.m3u8
 #EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
 http://201.168.205.12:8000/play/a0aj/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",TNT
+#EXTINF:-1 tvg-id="tnt.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",TNT
 http://201.168.205.12:8000/play/a0aq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DICOVERY CHANNEL
+
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DICOVERY CHANNEL
 http://201.168.205.12:8000/play/a0ep/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.atresseries.com/public/img/a3series.png",A3 SERIES
+
+#EXTINF:-1 tvg-id="atreseries.sp" tvg-logo="https://www.atresseries.com/public/img/a3series.png",A3 SERIES
 http://201.168.205.12:8000/play/a0b0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/ARTS_TV_World.png",ARTS
+
+#EXTINF:-1 tvg-id="746fa.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/ARTS_TV_World.png",ARTS
 http://201.168.205.12:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png",BABY TV
+
+#EXTINF:-1 tvg-id="babytv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png",BABY TV
 http://201.168.205.12:8000/play/a0b9/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/cc/74/92/cc7492675199e1c0a907dc293f598f04.jpg",COMEDY CENTRAL
 http://201.168.205.12:8000/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png",FORMULA NOTICIAS
