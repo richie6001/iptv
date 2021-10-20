@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,HBO
+http://45.236.175.23:8000/play/a02d
+#EXTINF:-1,HBO 2
+http://45.236.175.23:8000/play/a00h
+#EXTINF:-1,HBO Family
+http://45.236.175.23:8000/play/a00k
+#EXTINF:-1,HBO Plus
+http://45.236.175.23:8000/play/a00i
+#EXTINF:-1,HBO XTREME SD
+http://45.236.175.23:8000/play/a00j
+#EXTINF:-1,STAR ACTION
+http://45.236.175.23:8000/play/a00g
+#EXTINF:-1,STAR Hits SD
+http://45.236.175.23:8000/play/a00e
+#EXTINF:-1,STAR Series SD
+http://45.236.175.23:8000/play/a00f
 #EXTINF:-1,24 Horas
 http://45.236.175.23:8000/play/a00m
 #EXTINF:-1,70s Hits
@@ -57,9 +73,9 @@ http://45.236.175.23:8000/play/a030
 http://45.236.175.23:8000/play/a025
 #EXTINF:-1,EsneTV
 http://45.236.175.23:8000/play/a02s
-#EXTINF:-1 tvg-id="foxchannel.mx" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png",STAR CHANNEL
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://i.pinimg.com/564x/56/f9/63/56f963d61526c5e6b8c809c6a7b775ac.jpg",FOX SPORT
 http://45.236.175.23:8000/play/a034
-#EXTINF:-1,FOX SPORT 2
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-logo="http://i.imgur.com/qXuM4hT.png",FOX SPORT 2
 http://45.236.175.23:8000/play/a037
 #EXTINF:-1,FX
 http://45.236.175.23:8000/play/a02i
@@ -67,24 +83,14 @@ http://45.236.175.23:8000/play/a02i
 http://45.236.175.23:8000/play/a00b
 #EXTINF:-1,Fox Channel
 http://45.236.175.23:8000/play/a01s
-#EXTINF:-1,Fox Sports
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://i.pinimg.com/564x/56/f9/63/56f963d61526c5e6b8c809c6a7b775ac.jpg",FOX SPORT
 http://45.236.175.23:8000/play/a00v
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-logo="http://i.imgur.com/qXuM4hT.png",FOX SPORT 2
 http://45.236.175.23:8000/play/a01g
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-logo="http://i.imgur.com/tsBxDxY.png",FOX SPORT 3
 http://45.236.175.23:8000/play/a01h
 #EXTINF:-1,Frecuencia Latina
 http://45.236.175.23:8000/play/a02b
-#EXTINF:-1,HBO
-http://45.236.175.23:8000/play/a02d
-#EXTINF:-1,HBO 2
-http://45.236.175.23:8000/play/a00h
-#EXTINF:-1,HBO Family
-http://45.236.175.23:8000/play/a00k
-#EXTINF:-1,HBO Plus
-http://45.236.175.23:8000/play/a00i
-#EXTINF:-1,HBO XTREME SD
-http://45.236.175.23:8000/play/a00j
 #EXTINF:-1,History Channel
 http://45.236.175.23:8000/play/a01p
 #EXTINF:-1,Home and Health
@@ -113,12 +119,6 @@ http://45.236.175.23:8000/play/a019
 http://45.236.175.23:8000/play/a01a
 #EXTINF:-1,Rock Latino
 http://45.236.175.23:8000/play/a01b
-#EXTINF:-1,STAR ACTION
-http://45.236.175.23:8000/play/a00g
-#EXTINF:-1,STAR Hits SD
-http://45.236.175.23:8000/play/a00e
-#EXTINF:-1,STAR Series SD
-http://45.236.175.23:8000/play/a00f
 #EXTINF:-1,Sony PXPX
 http://45.236.175.23:8000/play/a02f
 #EXTINF:-1,Space
