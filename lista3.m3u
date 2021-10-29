@@ -192,6 +192,81 @@ http://190.83.2.50:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="VH1" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/01/VH1_Marca.jpg", VH1
 http://190.83.2.50:8000/play/a0es/index.m3u8
 
+#EXTINF:-1,Canal 4 - PAN
+http://190.83.2.50:8000/play/a04k/index.m3u8
+
+#EXTINF:-1,TV Max - PAN
+http://190.83.2.50:8000/play/a04j/index.m3u8
+
+#EXTINF:-1,MASTV - PAN
+http://190.83.2.50:8000/play/a02p/index.m3u8
+
+#EXTINF:-1,EWTN
+http://190.83.2.50:8000/play/a025/index.m3u8
+
+#EXTINF:-1,El Gourmet
+http://190.83.2.50:8000/play/a00q/index.m3u8
+
+#EXTINF:-1,Europa HD
+http://190.83.2.50:8000/play/a05s/index.m3u8
+
+#EXTINF:-1,Exa TV
+http://190.83.2.50:8000/play/a09q/index.m3u8
+
+#EXTINF:-1,CONCERT CHANNEL
+http://190.83.2.50:8000/play/a00z/index.m3u8
+
+#EXTINF:-1,Guatevision - GUA
+http://190.83.2.50:8000/play/a018/index.m3u8
+
+#EXTINF:-1,Canal 3 - GUA
+http://190.83.2.50:8000/play/a0ct/index.m3u8
+
+#EXTINF:-1,Canal 3 Telesistemas HND
+http://190.83.2.50:8000/play/a0gp/index.m3u8
+
+#EXTINF:-1,Golden
+http://190.83.2.50:8000/play/a039/index.m3u8
+
+#EXTINF:-1,Golf Channel HD
+http://190.83.2.50:8000/play/a05x/index.m3u8
+
+#EXTINF:-1,MTV SIM HD
+http://190.83.2.50:8000/play/a067/index.m3u8
+
+#EXTINF:-1,Mas Chic
+http://190.83.2.50:8000/play/a009/index.m3u8
+
+#EXTINF:-1,Multimedios
+http://190.83.2.50:8000/play/a02s/index.m3u8
+
+#EXTINF:-1,RCN - GUA
+http://190.83.2.50:8000/play/a005/index.m3u8
+
+#EXTINF:-1,RCN Novelas
+http://190.83.2.50:8000/play/a030/index.m3u8
+
+#EXTINF:-1,RHEMA TV
+http://190.83.2.50:8000/play/a05e/index.m3u8
+
+#EXTINF:-1,Pasiones HD
+http://190.83.2.50:8000/play/a06p/index.m3u8
+
+#EXTINF:-1,PXTV
+http://190.83.2.50:8000/play/a00h/index.m3u8
+
+#EXTINF:-1,SEMILLITAS
+http://190.83.2.50:8000/play/a01m/index.m3u8
+
+#EXTINF:-1,Sembrador
+http://190.83.2.50:8000/play/a03e/index.m3u8
+
+#EXTINF:-1,Sun Channel
+http://190.83.2.50:8000/play/a00r/index.m3u8
+
+#EXTINF:-1,Star TVE HD
+http://190.83.2.50:8000/play/a0co/index.m3u8
+
 #EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV
 http://190.83.2.50:8000/play/a015/index.m3u8
 
