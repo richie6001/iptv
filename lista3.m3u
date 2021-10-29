@@ -1,55 +1,43 @@
 #EXTM3U
 #EXTINF:-1,▬ Canales by Richie6001 ▬
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
-http://201.168.205.12:8000/play/a0c5/index.m3u8
+http://190.83.2.50:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus
-http://201.168.205.12:8000/play/a0cv/index.m3u8
+http://190.83.2.50:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
-http://201.168.205.12:8000/play/a0ct/index.m3u8
+http://190.83.2.50:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY
-http://201.168.205.12:8000/play/a0cu/index.m3u8
+http://190.83.2.50:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/120px-HBO_Xtreme.svg.png", HBO XTREME
-http://201.168.205.12:8000/play/a096/index.m3u8
+http://190.83.2.50:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", FOX ACTION
-http://201.168.205.12:8000/play/a098/index.m3u8
-
-#EXTINF:-1 tvg-id="562sci.cl" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", FOX CINEMA
-http://201.168.205.12:8000/play/a099/index.m3u8
+http://190.83.2.50:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Life_logo.png/225px-Fox_Life_logo.png", FOX LIFE
-http://201.168.205.12:8000/play/a08y/index.m3u8
+http://190.83.2.50:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="foxmovies.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/120px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
-http://201.168.205.12:8000/play/a097/index.m3u8
+http://190.83.2.50:8000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-id="foxclassics.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/FOX-Classic-Logo-01.png/120px-FOX-Classic-Logo-01.png", FOX CLASSICS
-http://201.168.205.12:8000/play/a0do/index.m3u8
+http://190.83.2.50:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="foxfamily.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fox_Family_Movies_logo.png/120px-Fox_Family_Movies_logo.png" ,FOX FAMILY
-http://201.168.205.12:8000/play/a0dn/index.m3u8
+http://190.83.2.50:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/225px-CinecanalLA.png", CINECANAL
-http://201.168.205.12:8000/play/a0cq/index.m3u8
-
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png", AZTECA UNO
-http://201.168.205.12:8000/play/a0cc/index.m3u8
-
-#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png", CLARO SPORT
-http://201.168.205.12:8000/play/a0cm/index.m3u8
+http://190.83.2.50:8000/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-id="disney.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/120px-2014_Disney_Channel_logo.svg.png", DISNEY
-http://201.168.205.12:8000/play/a0cj/index.m3u8
+http://190.83.2.50:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/108px-Investigation_Discovery_Logo_2018.svg.png", DISCOVERY ID
-http://201.168.205.12:8000/play/a0ch/index.m3u8
-
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/120px-Canal_de_las_Estrellas_logo.svg.png", ESTRELLAS
-http://201.168.205.12:8000/play/a0d4/index.m3u8
+http://190.83.2.50:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="505fxm.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/120px-FXM_Logo.svg.png", FXM
 http://201.168.205.12:8000/play/a0cr/index.m3u8
@@ -128,6 +116,7 @@ http://201.168.205.12:8000/play/a0bx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/baXbWro.jpg" ,NATIONAL GEOGRAPHIC LA
 http://201.168.205.12:8000/play/a0cl/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",NATGEO WILD
 http://201.168.205.12:8000/play/a0c2/index.m3u8
 
@@ -254,3 +243,15 @@ http://201.168.205.12:8000/play/a09c/index.m3u8
 
 #EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS +18
 http://201.168.205.12:8000/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-id="562sci.cl" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", FOX CINEMA
+http://201.168.205.12:8000/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png", AZTECA UNO
+http://201.168.205.12:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png", CLARO SPORT
+http://201.168.205.12:8000/play/a0cm/index.m3u8
+
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/120px-Canal_de_las_Estrellas_logo.svg.png", ESTRELLAS
+http://201.168.205.12:8000/play/a0d4/index.m3u8
