@@ -33,6 +33,7 @@ http://45.161.188.242:88/babytv/mono.m3u8
 #EXTINF:-1,cartoonnetwork
 http://45.161.188.242:88/cartoonnetwork/mono.m3u8
 #EXTINF:-1,discoverychannel
+http://91.226.51.126:8000/udp/239.100.10.189:2234
 http://45.161.188.242:88/discoverychannel/mono.m3u8
 #EXTINF:-1,disneychannel
 http://45.161.188.242:88/disneychannel/mono.m3u8
@@ -148,3 +149,5 @@ http://45.161.188.242:88/starlife/mono.m3u8
 http://45.161.188.242:88/etc/mono.m3u8
 #EXTINF:-1,24horas
 http://45.161.188.242:88/24horas/mono.m3u8
+#EXTINF:-1,Play Boy
+http://212.42.193.122:8888/play/a00g/index.m3u8
