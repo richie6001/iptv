@@ -45,7 +45,6 @@ http://45.161.188.242:88/babytv/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/120px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 http://45.161.188.242:88/cartoonnetwork/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DICOVERY CHANNEL
-http://91.226.51.126:8000/udp/239.100.10.189:2234
 http://45.161.188.242:88/discoverychannel/mono.m3u8
 #EXTINF:-1 tvg-id="disney.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/120px-2014_Disney_Channel_logo.svg.png", DISNEY
 http://45.161.188.242:88/disneychannel/mono.m3u8
@@ -149,3 +148,5 @@ http://45.161.188.242:88/etc/mono.m3u8
 http://45.161.188.242:88/24horas/mono.m3u8
 #EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV
 http://212.42.193.122:8888/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV HD
+http://91.226.51.126:8000/udp/239.100.10.189:2234
