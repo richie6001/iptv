@@ -10,6 +10,14 @@ http://45.161.188.242:88/hboxtreme/mono.m3u8
 http://45.161.188.242:88/hbofamily/mono.m3u8
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY HD
 http://45.161.188.242:88/hbofamilyhd/mono.m3u8
+#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", FOX ACTION
+http://201.131.201.126:8000/play/a00e
+#EXTINF:-1 tvg-id="562sci.cl" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", STAR CINEMA
+http://201.131.201.126:8000/play/a00g
+#EXTINF:-1,STAR COMEDY
+http://201.131.201.126:8000/play/a00h
+#EXTINF:-1,STAR FUN HD
+http://201.131.201.126:8000/play/a00f
 #EXTINF:-1,canal13
 http://45.161.188.242:88/canal13/mono.m3u8
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX
