@@ -24,7 +24,13 @@ http://45.174.77.243:8000/play/a097/index.m3u8
 http://45.161.188.242:88/canal13/mono.m3u8
 #EXTINF:-1 tvg-id="cinemax.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX
 http://45.161.188.242:88/cinemax/mono.m3u8
-#EXTINF:-1,cnnchile
+#EXTINF:-1 tvg-id="foxsyfy.la" tvg-logo="https://seeklogo.com/images/S/syfy-logo-356212C6E8-seeklogo.com.png",SYFY
+http://45.174.77.243:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/01/VH1_Marca.jpg", VH1
+http://45.174.77.243:8000/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-id="VIDEO ROLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/120px-Lg_videorola-300x199.png",VIDEO ROLA
+http://45.174.77.243:8000/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN
 http://45.161.188.242:88/cnnchile/mono.m3u8
 #EXTINF:-1,lared
 http://45.161.188.242:88/lared/mono.m3u8
