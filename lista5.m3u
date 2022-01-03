@@ -144,7 +144,7 @@ http://45.161.188.242:88/canal13/mono.m3u8
 http://45.161.188.242:88/rectv/mono.m3u8
 #EXTINF:-1 tvg-id="telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telecanal.svg/120px-Telecanal.svg.png",TELECANAL
 http://45.161.188.242:88/telecanal/mono.m3u8
-#EXTINF:-1 tvg-id="teletrak" tvg-logo="https://www.teletrak.cl/imagenes/logo.png",TELETRAK
+#EXTINF:-1 tvg-id="teletrak" tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png",TELETRAK
 http://45.161.188.242:88/teletrak/mono.m3u8
 #EXTINF:-1 tvg-id="149tvn.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png",TVN CHILE
 http://45.161.188.242:88/tvn/mono.m3u8
