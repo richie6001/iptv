@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-id="Telemetro.pa" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Telemetro_2010_logo.png/revision/latest?cb=20181013042937&path-prefix=es", Telemetro Panamá
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 tvg-id="rpcpanama" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rpc-television-panama-logo.png", RPC Panamá
-https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-id="tvnpanama" tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-id="rpcpanama" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rpc-television-panama-logo.png", RPC Panamá
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-id="tvmaxpanama" tvg-logo="https://i.imgur.com/7d8YDLV.png", TVMax Panamá
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-id="Oye" tvg-logo="https://i.imgur.com/qOfpWOV.jpg", Oye Panamá
