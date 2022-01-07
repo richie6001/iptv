@@ -79,8 +79,8 @@ http://45.161.188.242:88/nickjr/mono.m3u8
 #EXTINF:-1 tvg-id="boomerang.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/120px-Boomerang_tv_logo.png",BOOMERANG
 http://45.161.188.242:88/boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/files/fq/104983/png/tlc-logo.png",TLC
-#EXTINF:-1 tvg-id="comedycentral.lac" tvg-logo="https://cdn.mitvstatic.com/channels/7cdca9cb-756c-40c6-9faf-158694995663_m.jpg",COMEDY CENTRAL
 http://45.161.188.242:88/tlc/mono.m3u8
+#EXTINF:-1 tvg-id="comedycentral.lac" tvg-logo="https://cdn.mitvstatic.com/channels/7cdca9cb-756c-40c6-9faf-158694995663_m.jpg",COMEDY CENTRAL
 http://mains.services:2086/live/stanleyg/6916329/67194.m3u8
 #EXTINF:-1 tvg-id="animalplanet.co" tvg-logo="https://i.pinimg.com/originals/47/7f/4c/477f4c5b3cd6733171842bf8ffc3b717.jpg",ANIMAL PLANET
 http://45.161.188.242:88/animalplanet/mono.m3u8
