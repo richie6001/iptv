@@ -134,6 +134,8 @@ http://45.161.188.242:88/tbs/mono.m3u8
 http://45.161.188.242:88/warner/mono.m3u8
 #EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Life_logo.png/225px-Fox_Life_logo.png", STAR LIFE
 http://45.161.188.242:88/starlife/mono.m3u8
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://iconape.com/wp-content/png_logo_vector/azteca-7.png",AZTECA 7
+http://138.59.177.78:8000/play/a008
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/120px-Canal_de_las_Estrellas_logo.svg.png", ESTRELLAS
 http://45.161.188.242:88/lasestrellas/mono.m3u8
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/120px-Telemundo_logo_2018.svg.png", TELEMUNDO
