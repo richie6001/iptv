@@ -182,6 +182,8 @@ http://45.161.188.242:88/24horas/mono.m3u8
 http://212.42.193.122:8888/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV HD
 http://91.226.51.126:8000/udp/239.100.10.189:2234
+#EXTINF:-1 tvg-id="jasmin.co" tvg-logo="https://iconape.com/wp-content/png_logo_vector/jasmin-logo.png" ,JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w359453841.m3u8
 #EXTINF:-1 tvg-id="hustler.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/5/5b/20120610004204%21HustlerTV.svg/120px-HustlerTV.svg.png" ,HUSTLER TV HD
 http://bestsave.ltd:2052/55667788/88776655/150370
 #EXTINF:-1 tvg-id="sextreme.co" tvg-logo="https://3.bp.blogspot.com/-aPWVjFyaD8M/TeTui7IfuEI/AAAAAAAAPtA/PjmZlZBeHBc/s1600/sextreme.png",XXX SEX XTREME +18
