@@ -7,7 +7,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-id="Oye" tvg-logo="https://i.imgur.com/qOfpWOV.jpg", Oye Panamá
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
-http://45.161.188.242:88/hbo/mono.m3u8
+http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://45.161.188.242:88/hbo/mono.m3u8
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 CHILE HD
@@ -25,7 +25,7 @@ http://45.161.188.242:88/hbofamily/mono.m3u8
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY HD
 http://45.161.188.242:88/hbofamilyhd/mono.m3u8
 #EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", STAR ACTION
-http://45.174.77.243:8000/play/a098/index.m3u8
+http://170.83.242.153:8000/play/a02n
 #EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", STAR ACTION HD
 http://201.131.201.126:8000/play/a00e
 #EXTINF:-1 tvg-id="562sci.cl" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", STAR CINEMA
@@ -48,7 +48,7 @@ http://45.161.188.242:88/cnnchile/mono.m3u8
 http://45.161.188.242:88/axn/mono.m3u8
 #EXTINF:-1 tvg-id="babytv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png",BABY TV
 http://45.161.188.242:88/babytv/mono.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/120px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+#EXTINF:-1 tvg-id="network.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/120px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 http://45.161.188.242:88/cartoonnetwork/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DICOVERY CHANNEL
 http://45.161.188.242:88/discoverychannel/mono.m3u8
