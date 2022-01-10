@@ -182,8 +182,8 @@ http://45.161.188.242:88/24horas/mono.m3u8
 http://212.42.193.122:8888/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV HD
 http://91.226.51.126:8000/udp/239.100.10.189:2234
-#EXTINF:-1 tvg-id="hustler.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/5/5b/20120610004204%21HustlerTV.svg/120px-HustlerTV.svg.png" ,HUSTLER TV
-http://78.83.191.18:8000/play/a078
+#EXTINF:-1 tvg-id="hustler.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/5/5b/20120610004204%21HustlerTV.svg/120px-HustlerTV.svg.png" ,HUSTLER TV HD
+http://bestsave.ltd:2052/55667788/88776655/150370
 #EXTINF:-1 tvg-id="sextreme.co" tvg-logo="https://3.bp.blogspot.com/-aPWVjFyaD8M/TeTui7IfuEI/AAAAAAAAPtA/PjmZlZBeHBc/s1600/sextreme.png",XXX SEX XTREME +18
 http://138.59.177.78:8000/play/a00c
 #EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS +18
