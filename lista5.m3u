@@ -6,7 +6,7 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-id="Oye" tvg-logo="https://i.imgur.com/qOfpWOV.jpg", Oye Panamá
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" HBO 
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO 
 http://redcoliptv.com:8090/live/notocar/xmauc84bx1/20917.m3u8
 #EXTINF:-1 tvg-id="hbo.laoeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
 http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
