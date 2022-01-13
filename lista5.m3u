@@ -7,29 +7,29 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-id="Oye" tvg-logo="https://i.imgur.com/qOfpWOV.jpg", Oye Panamá
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO 
-http://45.225.93.154:4000/play/a08o
-#EXTINF:-1 tvg-id="hbo.laoeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
-http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
-#EXTINF:-1 tvg-id="hbo.laoeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO OESTE
-http://45.161.188.242:88/hbo/mono.m3u8
-#EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 CHILE HD
-http://mains.services:2086/live/stanleyg/6916329/67177.m3u8
-#EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
-http://45.161.188.242:88/hbo2/mono.m3u8
+http://tvbross.com:8090/Jhon/Jhon123/432
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO HD
+http://tvbross.com:8090/Jhon/Jhon123/430
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 
+http://tvbross.com:8090/Jhon/Jhon123/430
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 HD
+http://tvbross.com:8090/Jhon/Jhon123/428
 #EXTINF:-1 tvg-id="hboplus.la" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus
-http://45.161.188.242:88/hboplus/mono.m3u8
+http://tvbross.com:8090/Jhon/Jhon123/18676
+#EXTINF:-1 tvg-id="hboplus.la" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus HD
+http://tvbross.com:8090/Jhon/Jhon123/423
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/120px-HBO_Xtreme.svg.png", HBO XTREME
-http://45.161.188.242:88/hboxtreme/mono.m3u8
+http://tvbross.com:8090/Jhon/Jhon123/419
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-signature_m.png", HBO SIGNATURE
-http://mains.services:2086/live/stanleyg/6916329/67180.m3u8
+http://tvbross.com:8090/Jhon/Jhon123/422
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY
-http://45.161.188.242:88/hbofamily/mono.m3u8
+http://tvbross.com:8090/Jhon/Jhon123/426
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY HD
-http://45.161.188.242:88/hbofamilyhd/mono.m3u8
+http://tvbross.com:8090/Jhon/Jhon123/425
 #EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", STAR ACTION
-http://170.83.242.153:8000/play/a02n
+http://tvbross.com:8090/Jhon/Jhon123/453
 #EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", STAR ACTION HD
-http://201.131.201.126:8000/play/a00e
+http://tvbross.com:8090/Jhon/Jhon123/452
 #EXTINF:-1 tvg-id="562sci.cl" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", STAR CINEMA
 http://45.174.77.243:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="562sci.cl" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png", STAR CINEMA HD
