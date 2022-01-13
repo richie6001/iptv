@@ -115,11 +115,11 @@ http://45.161.188.242:88/espn2/mono.m3u8
 #EXTINF:-1 tvg-id="espn3.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/ESPN_3.png",ESPN 3
 http://45.161.188.242:88/espn3/mono.m3u8
 #EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://i.pinimg.com/564x/56/f9/63/56f963d61526c5e6b8c809c6a7b775ac.jpg",FOX SPORT
-http://45.161.188.242:88/foxsports1/mono.m3u8
+http://tvbross.com:8090/live/Jhon/Jhon123/87.m3u8
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-logo="http://i.imgur.com/qXuM4hT.png",FOX SPORT 2
-http://45.161.188.242:88/foxsports2/mono.m3u8
+http://tvbross.com:8090/live/Jhon/Jhon123/89.m3u8
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-logo="http://i.imgur.com/tsBxDxY.png",FOX SPORT 3
-http://45.161.188.242:88/foxsports3/mono.m3u8
+http://tvbross.com:8090/live/Jhon/Jhon123/91.m3u8
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Sports_Networks_logo.svg/120px-Fox_Sports_Networks_logo.svg.png",FOX SPORT 4
 http://45.161.188.242:88/foxsports/mono.m3u8
 #EXTINF:-1 tvg-id="tycsports.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/120px-TyC_Sports_logo.svg.png",TYC SPORTS
@@ -151,7 +151,7 @@ http://45.161.188.242:88/lasestrellas/mono.m3u8
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/120px-Telemundo_logo_2018.svg.png", TELEMUNDO
 http://45.161.188.242:88/telemundo/mono.m3u8
 #EXTINF:-1 tvg-id="tlnovelas.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/120px-Tlnovelas_2011_logo.svg.png", TELE NOVELAS
-http://45.161.188.242:88/telenovelas/mono.m3u8
+http://tvbross.com:8090/live/Jhon/Jhon123/479.m3u8
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TV_M%C3%A1s_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20201214003133", TV+ CHILE
 http://45.161.188.242:88/tv+/mono.m3u8
 #EXTINF:-1 tvg-id="red.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_la-red_m.png", LA RED CHILE
