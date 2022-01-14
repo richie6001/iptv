@@ -35,7 +35,7 @@ http://181.198.67.5:8024/play/a0bn/index.m3u8
 http://181.198.67.5:8024/play/a0be/index.m3u8
 #EXTINF:-1 tvg-id="STARFUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/120px-Star_Fun_2020.svg.png", STAR FUN
 http://181.198.67.5:8024/play/a08v/index.m3u8
-#EXTINF:-1 tvg-id="STARHISTS.CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/120px-Star_Hits_2020.svg.png", FOX HITS
+#EXTINF:-1 tvg-id="STARHISTS.CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/120px-Star_Hits_2020.svg.png", STAR HITS
 http://181.198.67.5:8024/play/a0bf/index.m3u8
 #EXTINF:-1 tvg-id="STARSERIES.CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/120px-Star_Series_2020.svg.png", STAR SERIES
 http://181.198.67.5:8024/play/a0a2/index.m3u8
