@@ -8,11 +8,9 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-id="Oye" tvg-logo="https://i.imgur.com/qOfpWOV.jpg", Oye Panamá
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO 
-http://45.225.93.154:4000/play/a08o
+http://45.161.188.242:88/hbo/mono.m3u8
 #EXTINF:-1 tvg-id="hbo.laoeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
 http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
-#EXTINF:-1 tvg-id="hbo.laoeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO OESTE
-http://45.161.188.242:88/hbo/mono.m3u8
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 CHILE HD
 http://mains.services:2086/live/stanleyg/6916329/67177.m3u8
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
@@ -152,7 +150,7 @@ http://45.161.188.242:88/lasestrellas/mono.m3u8
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/120px-Telemundo_logo_2018.svg.png", TELEMUNDO
 http://45.161.188.242:88/telemundo/mono.m3u8
 #EXTINF:-1 tvg-id="tlnovelas.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/120px-Tlnovelas_2011_logo.svg.png", TELE NOVELAS
-http://tvbross.com:8090/live/Jhon/Jhon123/479.m3u8
+http://190.108.93.62:8000/play/a00e
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TV_M%C3%A1s_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20201214003133", TV+ CHILE
 http://45.161.188.242:88/tv+/mono.m3u8
 #EXTINF:-1 tvg-id="red.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_la-red_m.png", LA RED CHILE
