@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:123,[COLOR red][B][I]Elaborado Por Richie6001 ----------Update 13/01/2022[/I][/B][/COLOR]
+#EXTINF:123,[COLOR red][B][I]Elaborado Por Richie6001 ---Agregados Star Channel-------Update 14/01/2022[/I][/B][/COLOR]
 https://fr03.ytmp3cut.com/ad8353f85d58274da7b10/Mi%20Corazon%20Encantado%20-%20Dragon%20Ball%20GT%20Letra.mp3
 #EXTINF:-1 tvg-id="tvnpanama" tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
@@ -29,6 +29,16 @@ http://45.161.188.242:88/hbofamily/mono.m3u8
 http://45.161.188.242:88/hbofamilyhd/mono.m3u8
 #EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", STAR ACTION
 http://170.83.242.153:8000/play/a02n
+#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/120px-Fox_Action_logo.svg.png", STAR ACTION HD
+http://181.198.67.5:8024/play/a0bn/index.m3u8
+#EXTINF:-1 tvg-id="562sci.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/120px-Star_Comedy_2020.svg.png", STAR COMEDY
+http://181.198.67.5:8024/play/a0be/index.m3u8
+#EXTINF:-1 tvg-id="STARFUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/120px-Star_Fun_2020.svg.png", STAR FUN
+http://181.198.67.5:8024/play/a08v/index.m3u8
+#EXTINF:-1 tvg-id="STARHISTS.CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/120px-Star_Hits_2020.svg.png", FOX HITS
+http://181.198.67.5:8024/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-id="STARSERIES.CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/120px-Star_Series_2020.svg.png", STAR SERIES
+http://181.198.67.5:8024/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX
 http://45.161.188.242:88/cinemax/mono.m3u8
 #EXTINF:-1 tvg-id="foxsyfy.la" tvg-logo="https://seeklogo.com/images/S/syfy-logo-356212C6E8-seeklogo.com.png",SYFY
