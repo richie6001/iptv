@@ -191,7 +191,7 @@ http://bestsave.ltd:2052/55667788/88776655/150370
 http://138.59.177.78:8000/play/a00c
 #EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS +18
 http://201.190.38.82:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" tvg-group="XXX", PLAYBOY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" tvg-group="XXX", PLAYBOY
 https://edge4-sl.cvattv.com.ar//live/c2live/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
