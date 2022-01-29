@@ -194,5 +194,5 @@ http://201.190.38.82:8000/play/a05c/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM=
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapura",TEST
+#EXTINF:-1 tvg-ID="TEST" tvg-logo="", TEST
 "https://chromecast.cvattv.com.ar/live/c2live/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
