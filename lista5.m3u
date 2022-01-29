@@ -193,6 +193,6 @@ http://138.59.177.78:8000/play/a00c
 http://201.190.38.82:8000/play/a05c/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cvattv.com/?update&get=Ly9lZGdlNC1zbC5jdmF0dHYuY29tLmFyLy9saXZlL2MybGl2ZS9QbGF5Ym95L1NBX0xpdmVfZGFzaF9lbmNfMkEvUGxheWJveS5tcGQ=
+#KODIPROP:inputstream.adaptive.license_key=https://cvattv.com/?update&get=Ly9lZGdlNC1zbC5jdmF0dHYuY29tLmFyLy9saXZlL2MybGl2ZS9QbGF5Ym95L1NBX0xpdmVfZGFzaF9lbmNfMkEvUGxheWJveS5tcGQ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" tvg-group="XXX", PLAYBOY
 https://edge4-sl.cvattv.com.ar//live/c2live/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
