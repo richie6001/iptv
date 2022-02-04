@@ -45,7 +45,7 @@ http://161.132.107.29:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="VH1" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/01/VH1_Marca.jpg", VH1 (CAIDO)
 http://45.174.77.243:8000/play/a0b6/index.m3u8
 
-#EXTINF:-1 tvg-id="VIDEO ROLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/120px-Lg_videorola-300x199.png",VIDEO ROLA (CAODO)
+#EXTINF:-1 tvg-id="VIDEO ROLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/120px-Lg_videorola-300x199.png",VIDEO ROLA (CAIDO)
 http://45.174.77.243:8000/play/a0b5/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN
