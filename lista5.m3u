@@ -108,8 +108,8 @@ http://161.132.107.29:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-id="comedycentral.lac" tvg-logo="https://cdn.mitvstatic.com/channels/7cdca9cb-756c-40c6-9faf-158694995663_m.jpg",COMEDY CENTRAL (CAIDO)
 http://mains.services:2086/live/stanleyg/6916329/67194.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet.co" tvg-logo="https://i.pinimg.com/originals/47/7f/4c/477f4c5b3cd6733171842bf8ffc3b717.jpg",ANIMAL PLANET (CAIDO)
-http://45.161.188.242:88/animalplanet/mono.m3u8
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-logo="https://i.pinimg.com/originals/47/7f/4c/477f4c5b3cd6733171842bf8ffc3b717.jpg",ANIMAL PLANET
+http://161.132.107.28:8000/play/a0hl/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.la" tvg-logo="https://w7.pngwing.com/pngs/19/158/png-transparent-discovery-turbo-television-channel-discovery-channel-logo-rua-gabriel-oeschler.png" ,DISCOVERY TURBO
 http://161.132.107.29:8000/play/a0i6/index.m3u8
