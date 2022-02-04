@@ -1,17 +1,20 @@
 #EXTM3U
-#EXTINF:123,[COLOR red][B][I]Elaborado Por Richie6001 ---Agregados Star Channel-------Update 14/01/2022[/I][/B][/COLOR]
+#EXTINF:123,[COLOR red][B][I]Elaborado Por Richie6001 -ACTUALIZANDO-------Update 04/02/2022[/I][/B][/COLOR]
 https://fr03.ytmp3cut.com/ad8353f85d58274da7b10/Mi%20Corazon%20Encantado%20-%20Dragon%20Ball%20GT%20Letra.mp3
+
 #EXTINF:-1 tvg-id="tvnpanama" tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-id="rpcpanama" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rpc-television-panama-logo.png", RPC Panamá
+
+#EXTINF:-1 tvg-id="rpcpanama" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rpc-television-panama-logo.png", RPC Panamá (CAIDO)
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+
 #EXTINF:-1 tvg-id="tvmaxpanama" tvg-logo="https://i.imgur.com/7d8YDLV.png", TVMax Panamá
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Oye" tvg-logo="https://i.imgur.com/qOfpWOV.jpg", Oye Panamá
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO 
-http://45.161.188.242:88/hbo/mono.m3u8
-#EXTINF:-1 tvg-id="hbo.laoeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
+
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
 http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
