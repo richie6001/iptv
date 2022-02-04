@@ -169,57 +169,82 @@ http://161.132.107.29:8000/play/a0hr/index.m3u8
 http://45.161.188.242:88/goltv/mono.m3u8
 
 #EXTINF:-1 tvg-id="631tnts2.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/631.png",TNT SPORTS 2
-http://45.161.188.242:88/tntsports2/mono.m3u8
+http://161.132.107.29:8000/play/a0h6/index.m3u8
+
 #EXTINF:-1 tvg-id="632tnts3.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/632.png",TNT SPORTS 3
-http://45.161.188.242:88/tntsports3/mono.m3u8
+http://161.132.107.29:8000/play/a0hs/index.m3u8
+
 #EXTINF:-1 tvg-id="505fxm.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/120px-FXM_Logo.svg.png", FX Movies
-http://45.161.188.242:88/fxmovies/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/I.Sat_1998.png",ISAT
+http://161.132.107.29:8000/play/a0h5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/I.Sat_1998.png",ISAT (CAIDO)
 http://45.161.188.242:88/isat/mono.m3u8
-#EXTINF:-1 tvg-id="golden.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/99px-Logo_Golden_TV.svg.png", Golden
+
+#EXTINF:-1 tvg-id="golden.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/99px-Logo_Golden_TV.svg.png", Golden (CAIDO)
 http://45.161.188.242:88/golden/mono.m3u8
+
 #EXTINF:-1 tvg-id="space.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/120px-SpaceLogo.svg.png",SPACE
-http://45.161.188.242:88/space/mono.m3u8
+http://161.132.107.29:8000/play/a0i3/index.m3u8
+
 #EXTINF:-1 tvg-id="tbs.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/120px-TBS_logo_2016.svg.png",TBS
-http://45.161.188.242:88/tbs/mono.m3u8
+http://161.132.107.29:8000/play/a0g5/index.m3u8
+
 #EXTINF:-1 tvg-id="warner.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/115px-Warner_Bros_logo.svg.png",WARNER
-http://45.161.188.242:88/warner/mono.m3u8
+http://161.132.107.29:8000/play/a0hm/index.m3u8
+
 #EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fox_Life_logo.png/225px-Fox_Life_logo.png", STAR LIFE
-http://45.161.188.242:88/starlife/mono.m3u8
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://iconape.com/wp-content/png_logo_vector/azteca-7.png",AZTECA 7
-http://138.59.177.78:8000/play/a008
+http://161.132.107.29:8000/play/a0gq/index.m3u8
+
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://iconape.com/wp-content/png_logo_vector/azteca-7.png",AZTECA 7 (CAIDO)
+
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/120px-Canal_de_las_Estrellas_logo.svg.png", ESTRELLAS
-http://45.161.188.242:88/lasestrellas/mono.m3u8
+http://161.132.107.29:8000/play/a0hw/index.m3u8
+
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/120px-Telemundo_logo_2018.svg.png", TELEMUNDO
-http://45.161.188.242:88/telemundo/mono.m3u8
-#EXTINF:-1 tvg-id="tlnovelas.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/120px-Tlnovelas_2011_logo.svg.png", TELE NOVELAS
+http://161.132.107.29:8000/play/a0hz/index.m3u8
+
+#EXTINF:-1 tvg-id="tlnovelas.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/120px-Tlnovelas_2011_logo.svg.png", TELE NOVELAS (CAIDO)
 http://190.108.93.62:8000/play/a00e
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TV_M%C3%A1s_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20201214003133", TV+ CHILE
+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TV_M%C3%A1s_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20201214003133", TV+ CHILE (CAIDO)
 http://45.161.188.242:88/tv+/mono.m3u8
+
 #EXTINF:-1 tvg-id="red.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_la-red_m.png", LA RED CHILE
-http://45.161.188.242:88/lared/mono.m3u8
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png", MEGA CHILE
+http://161.132.107.29:8000/play/a0h4/index.m3u8
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png", MEGA CHILE (CAIDO)
 http://45.161.188.242:88/mega/mono.m3u8
+
 #EXTINF:-1 tvg-id="152c13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/118px-Canal_13_%28Chile%29_logo.svg.png",CANAL 13 CHILE
-http://45.161.188.242:88/canal13/mono.m3u8
-#EXTINF:-1 tvg-id="152c13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotipo_de_Rec_TV.png/120px-Logotipo_de_Rec_TV.png",REC TV
+http://161.132.107.29:8000/play/a0hr/index.m3u8
+
+#EXTINF:-1 tvg-id="152c13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotipo_de_Rec_TV.png/120px-Logotipo_de_Rec_TV.png",REC TV (CAIDO)
 http://45.161.188.242:88/rectv/mono.m3u8
-#EXTINF:-1 tvg-id="telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telecanal.svg/120px-Telecanal.svg.png",TELECANAL
+
+#EXTINF:-1 tvg-id="telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telecanal.svg/120px-Telecanal.svg.png",TELECANAL (CAIDO)
 http://45.161.188.242:88/telecanal/mono.m3u8
-#EXTINF:-1 tvg-id="teletrak" tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png",TELETRAK
+
+#EXTINF:-1 tvg-id="teletrak" tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png",TELETRAK (CAIDO)
 http://45.161.188.242:88/teletrak/mono.m3u8
-#EXTINF:-1 tvg-id="149tvn.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png",TVN CHILE
+
+#EXTINF:-1 tvg-id="149tvn.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png",TVN CHILE (CAIDO)
 http://45.161.188.242:88/tvn/mono.m3u8
+
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png",VIAX CHILE
-http://45.161.188.242:88/viax/mono.m3u8
+http://161.132.107.29:8000/play/a0hv/index.m3u8
+
 #EXTINF:-1 tvg-id="zonalatina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es",ZONA LATINA CHILE
-http://45.161.188.242:88/zonalatina/mono.m3u8
-#EXTINF:-1 tvg-id="vidatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Vida-tv.jpg",VIDA TV CHILE
+http://161.132.107.29:8000/play/a0gp/index.m3u8
+
+#EXTINF:-1 tvg-id="vidatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Vida-tv.jpg",VIDA TV CHILE (CAIDO)
 http://45.161.188.242:88/vidatv/mono.m3u8
-#EXTINF:-1 tvg-id="etctv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_etc-tv_m.png",ETC CHILE
+
+#EXTINF:-1 tvg-id="etctv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_etc-tv_m.png",ETC CHILE (CAIDO)
 http://45.161.188.242:88/etc/mono.m3u8
+
 #EXTINF:-1 tvg-id="24h.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png",24 HORAS CHILE
-http://45.161.188.242:88/24horas/mono.m3u8
+http://161.132.107.29:8000/play/a0hg/index.m3u8
+
 #EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV HD
 http://91.226.51.126:8000/udp/239.100.10.189:2234
 #EXTINF:-1 tvg-id="jasmin.co" tvg-logo="https://iconape.com/wp-content/png_logo_vector/jasmin-logo.png" ,JASMIN TV
