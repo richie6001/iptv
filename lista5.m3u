@@ -252,10 +252,15 @@ http://161.132.107.29:8000/play/a0hg/index.m3u8
 http://91.226.51.126:8000/udp/239.100.10.189:2234
 #EXTINF:-1 tvg-id="jasmin.co" tvg-logo="https://iconape.com/wp-content/png_logo_vector/jasmin-logo.png" ,JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w359453841.m3u8
+
 #EXTINF:-1 tvg-id="hustler.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/5/5b/20120610004204%21HustlerTV.svg/120px-HustlerTV.svg.png" ,HUSTLER TV HD
-http://bestsave.ltd:2052/55667788/88776655/150370
+http://37.19.203.217:8085/udp/239.10.10.88:5000
+
 #EXTINF:-1 tvg-id="sextreme.co" tvg-logo="https://3.bp.blogspot.com/-aPWVjFyaD8M/TeTui7IfuEI/AAAAAAAAPtA/PjmZlZBeHBc/s1600/sextreme.png",XXX SEX XTREME +18
 http://138.59.177.78:8000/play/a00c
 #EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS +18
 http://201.190.38.82:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-id="babestv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babes_TV.svg/revision/latest/scale-to-width-down/300?cb=20211001144154", BABES TV
+http://37.19.203.217:8085/udp/239.10.10.69:5000
 
