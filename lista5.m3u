@@ -156,7 +156,7 @@ http://181.224.238.154:8000/play/a02g
 http://181.224.238.154:8000/play/a00f
 #EXTINF:-1,TLC
 http://181.224.238.154:8000/play/a025
-#EXTINF:-1,TNT
+#EXTINF:-1,
 http://181.224.238.154:8000/play/a00i
 #EXTINF:-1,TNT HD
 #EXTINF:-1,Playboy TV
@@ -178,7 +178,7 @@ http://181.224.238.154:8000/play/a008
 http://181.224.238.154:8000/play/a026
 #EXTINF:-1,WILLAX
 http://181.224.238.154:8000/play/a02h
-#EXTINF:-1,Warner
+#EXTINF:-1,
 http://181.224.238.154:8000/play/a01l
 #EXTINF:-1,Warner Channel HD
 http://181.224.238.154:8000/play/a057
@@ -186,3 +186,42 @@ http://181.224.238.154:8000/play/a057
 http://181.224.238.154:8000/play/a05d
 #EXTINF:-1,Zona Latina
 http://181.224.238.154:8000/play/a00b
+http://45.71.185.142:8500/play/a02v
+#EXTINF:-1,HBO 2
+http://45.71.185.142:8500/play/a00z
+#EXTINF:-1,HBO Family
+http://45.71.185.142:8500/play/a012
+#EXTINF:-1,HBO Plus
+http://45.71.185.142:8500/play/a010
+#EXTINF:-1,HBO XTREME SD
+http://45.71.185.142:8500/play/a011
+#EXTINF:-1,History Channel
+http://45.71.185.142:8500/play/a004
+#EXTINF:-1,HomeandHealth
+http://45.71.185.142:8500/play/a01w
+#EXTINF:-1,MTV
+http://45.71.185.142:8500/play/a008
+#EXTINF:-1,Nat Geo
+http://45.71.185.142:8500/play/a003
+#EXTINF:-1,NatGeo Kids
+http://45.71.185.142:8500/play/a00e
+#EXTINF:-1,Nick Jr
+http://45.71.185.142:8500/play/a038
+#EXTINF:-1,Nickelodeon
+http://45.71.185.142:8500/play/a001
+#EXTINF:-1,RCN Novelas
+http://45.71.185.142:8500/play/a03i
+#EXTINF:-1,RTS
+http://45.71.185.142:8500/play/a034
+#EXTINF:-1,STAR CHANNEL
+http://45.71.185.142:8500/play/a00c
+#EXTINF:-1,Space
+http://45.71.185.142:8500/play/a02z
+#EXTINF:-1,TBS
+http://45.71.185.142:8500/play/a03k
+#EXTINF:-1,TC Television
+http://45.71.185.142:8500/play/a02d
+#EXTINF:-1,TV+ HD
+http://45.71.185.142:8500/play/a03h
+#EXTINF:-1,Teleamazonas
+http://45.71.185.142:8500/play/a02h
