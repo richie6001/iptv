@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:123,[COLOR red][B][I]23/05/2022 Update Elaborado Por Richie6001-------[/I][/B][/COLOR]
 https://fr03.ytmp3cut.com/ad8353f85d58274da7b10/Mi%20Corazon%20Encantado%20-%20Dragon%20Ball%20GT%20Letra.mp3
-#EXTINF:-1 tvg-id="Telemetro.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="Undefined",Telemetro (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Telemetro.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="Undefined",Telemetro (720p)
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-id="rpcpanama" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rpc-television-panama-logo.png", RPC Panamá
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1 tvg-id="OyeTV.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IqLT2CC.png" group-title="Music",Oye TV (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OyeTV.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IqLT2CC.png" group-title="Music",Oye TV (480p)
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (540p)
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-id="24h.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png",24 HORAS CHILE
 http://45.236.174.147:2501/play/a00m
@@ -57,24 +57,10 @@ http://45.236.174.147:2501/play/a00x
 http://45.236.174.147:2501/play/a00n
 #EXTINF:-1 tvg-id="espn3.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/ESPN_3.png",ESPN 3
 http://45.236.174.147:2501/play/a02t
-#EXTINF:-1,EUROSPORT1HD
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/17/20210505113543%21Eurosport_Logo_2015.svg/120px-Eurosport_Logo_2015.svg.png",EUROSPORT
 http://195.154.179.18:8000/play/a00e
-#EXTINF:-1,Eurosport 2 HD
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/185?cb=20171123164013",EUROSPORT 2
 http://212.18.115.192:3549/play/a045
-#EXTINF:-1,Eurosport 360 FHD 2
-http://212.18.115.192:3549/play/a046
-#EXTINF:-1,Eurosport 360 FHD 3
-http://212.18.115.192:3549/play/a047
-#EXTINF:-1,Eurosport 360 FHD 4
-http://212.18.115.192:3549/play/a048
-#EXTINF:-1,Eurosport 360 FHD 5
-http://212.18.115.192:3549/play/a049
-#EXTINF:-1,Eurosport 360 FHD 6
-http://212.18.115.192:3549/play/a04a
-#EXTINF:-1,Eurosport 360 FHD 8
-http://212.18.115.192:3549/play/a04b
-#EXTINF:-1,Eurosport 360 FHD 9
-http://212.18.115.192:3549/play/a04c
 #EXTINF:-1,Enlace
 http://45.236.174.147:2501/play/a025
 #EXTINF:-1,EsneTV
