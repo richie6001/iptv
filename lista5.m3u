@@ -59,6 +59,22 @@ http://45.236.174.147:2501/play/a00n
 http://45.236.174.147:2501/play/a02t
 #EXTINF:-1,EUROSPORT1HD
 http://195.154.179.18:8000/play/a00e
+#EXTINF:-1,Eurosport 2 HD
+http://212.18.115.192:3549/play/a045
+#EXTINF:-1,Eurosport 360 FHD 2
+http://212.18.115.192:3549/play/a046
+#EXTINF:-1,Eurosport 360 FHD 3
+http://212.18.115.192:3549/play/a047
+#EXTINF:-1,Eurosport 360 FHD 4
+http://212.18.115.192:3549/play/a048
+#EXTINF:-1,Eurosport 360 FHD 5
+http://212.18.115.192:3549/play/a049
+#EXTINF:-1,Eurosport 360 FHD 6
+http://212.18.115.192:3549/play/a04a
+#EXTINF:-1,Eurosport 360 FHD 8
+http://212.18.115.192:3549/play/a04b
+#EXTINF:-1,Eurosport 360 FHD 9
+http://212.18.115.192:3549/play/a04c
 #EXTINF:-1,Enlace
 http://45.236.174.147:2501/play/a025
 #EXTINF:-1,EsneTV
