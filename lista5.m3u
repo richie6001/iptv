@@ -70,13 +70,13 @@ http://45.236.174.147:2501/play/a01h
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
 http://45.236.174.147:2501/play/a02d
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
-http://45.236.175.1:9600/play/a00h
+http://45.153.165.14:8081/play/a0hg/index.m3u8
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY
-http://45.236.174.147:2501/play/a00k
+http://45.153.165.14:8081/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="hboplus.la" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus
-http://45.236.174.147:2501/play/a00i
+http://45.153.165.14:8081/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/120px-HBO_Xtreme.svg.png", HBO XTREME
-http://45.236.174.147:2501/play/a00j
+http://45.153.165.14:8081/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="history.mx" tvg-logo="https://i.pinimg.com/originals/89/13/35/891335ab8b899c23d65fc248c9616eae.jpg",HISTORY CHANNEL
 http://45.236.174.147:2501/play/a01p
 #EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" ,H&H
