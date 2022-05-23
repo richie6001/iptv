@@ -139,3 +139,5 @@ http://45.236.174.147:2501/play/a01v
 http://161.230.155.157:8000/play/a04p
 #EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV HD
 http://161.230.155.157:8000/play/a026
+#EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS +18
+http://190.128.128.58:5000/play/a00z
