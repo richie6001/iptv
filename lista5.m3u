@@ -83,6 +83,10 @@ http://168.90.221.3:8000/play/a011/index.m3u8
 http://168.90.221.3:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-logo="http://i.imgur.com/tsBxDxY.png",FOX SPORT 3
 http://168.90.221.3:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/17/20210505113543%21Eurosport_Logo_2015.svg/120px-Eurosport_Logo_2015.svg.png",EUROSPORT
+http://195.154.179.18:8000/play/a00e
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/185?cb=20171123164013",EUROSPORT 2
+http://212.18.115.192:3549/play/a045
 #EXTINF:-1,France 24
 http://168.90.221.3:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO CHILE HD
