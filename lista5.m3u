@@ -127,6 +127,10 @@ http://168.90.221.3:8000/play/a02k/index.m3u8
 http://168.90.221.3:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="nick.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_nickelodeon-hd_m.png",NICKELODEON HD
 http://168.90.221.3:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/ae/20211001090315%21Paramount_Pics_logo.png/120px-Paramount_Pics_logo.png",PARAMOUNT CHANNEL HD
+http://45.7.133.234:58002/play/a07g/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://45.7.133.234:58002/play/a07k/index.m3u8
 #EXTINF:-1,PirataTV
 http://168.90.221.3:8000/play/a03p/index.m3u8
 #EXTINF:-1,RCN Novelas
