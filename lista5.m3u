@@ -47,7 +47,7 @@ http://45.5.119.202:8000/play/a01n/index.m3u8
 http://45.5.119.202:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="disneyjr.cl" tvg-logo="https://w7.pngwing.com/pngs/673/844/png-transparent-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text-logo.png",DISNEY JR
 http://45.5.119.202:8000/play/a02g/index.m3u8
-#EXTINF:-1tvg-id="eentertainment.co" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/e-entertainment-television-logo.png",E!
+#EXTINF:-1tvg-id="eentertainment.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/1a/20180817002450%21E%21_Logo.svg/87px-E%21_Logo.svg.png",E!
 http://45.5.119.202:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="espn.mx" tvg-logo="https://i.pinimg.com/originals/10/55/44/105544f677e7bf36e74c0477d63e9051.jpg",ESPN
 http://45.5.119.202:8000/play/a01a/index.m3u8
