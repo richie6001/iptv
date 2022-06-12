@@ -194,3 +194,8 @@ http://45.5.119.202:8000/play/a02j/index.m3u8
 http://45.5.119.202:8000/play/a01u/index.m3u8
 #EXTINF:-1,Warner
 http://45.5.119.202:8000/play/a012/index.m3u8
+#EXTINF:-1,Playboy TV
+http://91.215.188.171:8001/play/69/index.m3u8
+#EXTINF:-1,Venus
+http://45.225.47.234:41/play/a0ao/index.m3u8
+
