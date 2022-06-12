@@ -9,10 +9,9 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (540p)
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="aande.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png",A&E
 http://45.5.119.202:8000/play/a014/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/120px-Amc_logo.svg.png",AMC
 http://45.5.119.202:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="axn.mx" tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s640/AXN-novo-logotipo2016.png",AXN
 http://45.5.119.202:8000/play/a02u/index.m3u8
@@ -20,28 +19,10 @@ http://45.5.119.202:8000/play/a02u/index.m3u8
 http://45.5.119.202:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/47/7f/4c/477f4c5b3cd6733171842bf8ffc3b717.jpg",ANIMAL PLANET
 http://45.5.119.202:8000/play/a017/index.m3u8
-#EXTINF:-1,Azcorazon
-http://45.5.119.202:8000/play/a04u/index.m3u8
-#EXTINF:-1,Azmundo
-http://45.5.119.202:8000/play/a010/index.m3u8
-#EXTINF:-1,Baby First
-http://45.5.119.202:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/225px-CinecanalLA.png", CINECANAL
 http://45.5.119.202:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN
 http://45.5.119.202:8000/play/a02h/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
-http://45.5.119.202:8000/play/a008/index.m3u8
-#EXTINF:-1,Canal 13-GUA
-http://45.5.119.202:8000/play/a007/index.m3u8
-#EXTINF:-1,Canal 3 - GUA
-http://45.5.119.202:8000/play/a00y/index.m3u8
-#EXTINF:-1,Canal 7 - GUA
-http://45.5.119.202:8000/play/a00x/index.m3u8
-#EXTINF:-1,Canal Antigua - GUA
-http://45.5.119.202:8000/play/a00v/index.m3u8
-#EXTINF:-1,Canal Azteca - GUA
-http://45.5.119.202:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/120px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 http://45.5.119.202:8000/play/a02d/index.m3u8
 #EXTINF:-1,Cartoonito
@@ -54,8 +35,6 @@ http://45.5.119.202:8000/play/a020/index.m3u8
 http://45.5.119.202:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png", CLARO SPORT
 http://45.5.119.202:8000/play/a04j/index.m3u8
-#EXTINF:-1,Concert Channel
-http://45.5.119.202:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DICOVERY CHANNEL
 http://45.5.119.202:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" ,H&H
@@ -82,14 +61,6 @@ http://45.5.119.202:8000/play/a00h/index.m3u8
 http://45.5.119.202:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="espn4.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/78/20220126204155%21ESPN_4_logo.svg/120px-ESPN_4_logo.svg.png",ESPN 4 HD
 http://45.5.119.202:8000/play/a029/index.m3u8
-#EXTINF:-1,EURO Channel
-http://45.5.119.202:8000/play/a00c/index.m3u8
-#EXTINF:-1,EWTN
-http://45.5.119.202:8000/play/a030/index.m3u8
-#EXTINF:-1,El Gourmet
-http://45.5.119.202:8000/play/a00e/index.m3u8
-#EXTINF:-1,Exa TV
-http://45.5.119.202:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-logo="http://i.imgur.com/qXuM4hT.png",FOX SPORT 2
 http://45.5.119.202:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="505fxm.cl" tvg-logo="https://icon-library.com/images/fx-icon/fx-icon-23.jpg",FX
@@ -98,8 +69,6 @@ http://45.5.119.202:8000/play/a00a/index.m3u8
 http://45.5.119.202:8000/play/a02r/index.m3u8
 #EXTINF:-1,Golden
 http://45.5.119.202:8000/play/a00n/index.m3u8
-#EXTINF:-1,Guatevision - GUA
-http://45.5.119.202:8000/play/a02c/index.m3u8
 #EXTINF:-1,H2
 http://45.5.119.202:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
@@ -114,20 +83,16 @@ http://45.5.119.202:8000/play/a025/index.m3u8
 http://45.5.119.202:8000/play/a022/index.m3u8
 #EXTINF:-1,HTV
 http://45.5.119.202:8000/play/a00m/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 tvg-id="history.mx" tvg-logo="https://i.pinimg.com/originals/89/13/35/891335ab8b899c23d65fc248c9616eae.jpg",HISTORY CHANNEL
 http://45.5.119.202:8000/play/a018/index.m3u8
-#EXTINF:-1,History HD
+#EXTINF:-1 tvg-id="history.mx" tvg-logo="https://i.pinimg.com/originals/89/13/35/891335ab8b899c23d65fc248c9616eae.jpg",HISTORY CHANNEL HD
 http://45.5.119.202:8000/play/a031/index.m3u8
-#EXTINF:-1,ID
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/108px-Investigation_Discovery_Logo_2018.svg.png", DISCOVERY ID
 http://45.5.119.202:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/I.Sat_1998.png",ISAT
 http://45.5.119.202:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="LIFE TIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png", LIFE TIME
 http://45.5.119.202:8000/play/a02q/index.m3u8
-#EXTINF:-1,La voz de Maria
-http://45.5.119.202:8000/play/a01q/index.m3u8
-#EXTINF:-1,Latin America Sport
-http://45.5.119.202:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="mtv.co" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV
 http://45.5.119.202:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="mtv.co" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV 00S
@@ -146,12 +111,6 @@ http://45.5.119.202:8000/play/a02p/index.m3u8
 http://45.5.119.202:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="nick.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_nickelodeon-hd_m.png",NICKELODEON
 http://45.5.119.202:8000/play/a01k/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://45.5.119.202:8000/play/a00b/index.m3u8
-#EXTINF:-1,RHEMA TV
-http://45.5.119.202:8000/play/a028/index.m3u8
-#EXTINF:-1,SEMILLITAS
-http://45.5.119.202:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
 http://45.5.119.202:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY HD
@@ -164,16 +123,12 @@ http://45.5.119.202:8000/play/a02b/index.m3u8
 http://45.5.119.202:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="foxchannel.mx" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png",STAR CHANNEL HD
 http://45.5.119.202:8000/play/a01e/index.m3u8
-#EXTINF:-1,Sembrador
-http://45.5.119.202:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",STUDIO UNIVERSAL
 http://45.5.119.202:8000/play/a01z/index.m3u8
 #EXTINF:-1,Sun Channel
 http://45.5.119.202:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="foxsyfy.la" tvg-logo="https://seeklogo.com/images/S/syfy-logo-356212C6E8-seeklogo.com.png",SYFY
 http://45.5.119.202:8000/play/a015/index.m3u8
-#EXTINF:-1,TBN Enlace
-http://45.5.119.202:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="tbs.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/120px-TBS_logo_2016.svg.png",TBS
 http://45.5.119.202:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="tcm.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/120px-TCM_logo.svg.png" ,TCM
@@ -186,14 +141,58 @@ http://45.5.119.202:8000/play/a02v/index.m3u8
 http://45.5.119.202:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/120px-Telemundo_logo_2018.svg.png", TELEMUNDO
 http://45.5.119.202:8000/play/a02k/index.m3u8
-#EXTINF:-1,Tooncast
-http://45.5.119.202:8000/play/a00z/index.m3u8
-#EXTINF:-1,Tru TV
-http://45.5.119.202:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-logo="https://universalizeseuplano.com.br/static/images/logo.png",UNIVERSAL TV
 http://45.5.119.202:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="warner.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/115px-Warner_Bros_logo.svg.png",WARNER
 http://45.5.119.202:8000/play/a012/index.m3u8
+#EXTINF:-1,Tooncast
+http://45.5.119.202:8000/play/a00z/index.m3u8
+#EXTINF:-1,Tru TV
+http://45.5.119.202:8000/play/a02j/index.m3u8
+#EXTINF:-1,Canal 11 - GUA
+http://45.5.119.202:8000/play/a008/index.m3u8
+#EXTINF:-1,Canal 13-GUA
+http://45.5.119.202:8000/play/a007/index.m3u8
+#EXTINF:-1,Canal 3 - GUA
+http://45.5.119.202:8000/play/a00y/index.m3u8
+#EXTINF:-1,Canal 7 - GUA
+http://45.5.119.202:8000/play/a00x/index.m3u8
+#EXTINF:-1,Canal Antigua - GUA
+http://45.5.119.202:8000/play/a00v/index.m3u8
+#EXTINF:-1,Canal Azteca - GUA
+http://45.5.119.202:8000/play/a00w/index.m3u8
+#EXTINF:-1,Guatevision - GUA
+http://45.5.119.202:8000/play/a02c/index.m3u8
+#EXTINF:-1,Azcorazon
+http://45.5.119.202:8000/play/a04u/index.m3u8
+#EXTINF:-1,Azmundo
+http://45.5.119.202:8000/play/a010/index.m3u8
+#EXTINF:-1,Baby First
+http://45.5.119.202:8000/play/a009/index.m3u8
+#EXTINF:-1,La voz de Maria
+http://45.5.119.202:8000/play/a01q/index.m3u8
+#EXTINF:-1,Latin America Sport
+http://45.5.119.202:8000/play/a00j/index.m3u8
+#EXTINF:-1,Concert Channel
+http://45.5.119.202:8000/play/a01t/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://45.5.119.202:8000/play/a00b/index.m3u8
+#EXTINF:-1,RHEMA TV
+http://45.5.119.202:8000/play/a028/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://45.5.119.202:8000/play/a02i/index.m3u8
+#EXTINF:-1,Sembrador
+http://45.5.119.202:8000/play/a00s/index.m3u8
+#EXTINF:-1,TBN Enlace
+http://45.5.119.202:8000/play/a02z/index.m3u8
+#EXTINF:-1,EURO Channel
+http://45.5.119.202:8000/play/a00c/index.m3u8
+#EXTINF:-1,EWTN
+http://45.5.119.202:8000/play/a030/index.m3u8
+#EXTINF:-1,El Gourmet
+http://45.5.119.202:8000/play/a00e/index.m3u8
+#EXTINF:-1,Exa TV
+http://45.5.119.202:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV
 http://91.215.188.171:8001/play/69/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venus_Nuevo_Logo_2014.png/120px-Venus_Nuevo_Logo_2014.png", XXX VENUS
