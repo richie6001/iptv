@@ -25,7 +25,7 @@ http://45.5.119.202:8000/play/a01h/index.m3u8
 http://45.5.119.202:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/120px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 http://45.5.119.202:8000/play/a02d/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/120px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 http://45.5.119.202:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",CINE LATINO
 http://45.5.119.202:8000/play/a01x/index.m3u8
@@ -51,7 +51,7 @@ http://45.5.119.202:8000/play/a02g/index.m3u8
 http://45.5.119.202:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="espn.mx" tvg-logo="https://i.pinimg.com/originals/10/55/44/105544f677e7bf36e74c0477d63e9051.jpg",ESPN
 http://45.5.119.202:8000/play/a01a/index.m3u8
-#EXTINF:-1,ESPN +
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/120px-ESPN_Plus.svg.png?20200207041331",ESPN PLUS
 http://45.5.119.202:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="espn-2.mx" tvg-logo="https://i.pinimg.com/originals/97/d5/81/97d581566431fe83e4d8f390424b9987.jpg",ESPN 2
 http://45.5.119.202:8000/play/a01b/index.m3u8
@@ -67,9 +67,9 @@ http://45.5.119.202:8000/play/a00i/index.m3u8
 http://45.5.119.202:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-logo="http://i.imgur.com/tsBxDxY.png",FOX SPORT 3
 http://45.5.119.202:8000/play/a02r/index.m3u8
-#EXTINF:-1,Golden
+#EXTINF:-1 tvg-id="golden.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/120px-Canal_Golden_logo.svg.png",Golden
 http://45.5.119.202:8000/play/a00n/index.m3u8
-#EXTINF:-1,H2
+#EXTINF:-1 tvg-id="history2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/H2_channel_logo.PNG/120px-H2_channel_logo.PNG",H2
 http://45.5.119.202:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://45.5.119.202:8000/play/a021/index.m3u8
@@ -81,7 +81,7 @@ http://45.5.119.202:8000/play/a023/index.m3u8
 http://45.5.119.202:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
 http://45.5.119.202:8000/play/a022/index.m3u8
-#EXTINF:-1,HTV
+#EXTINF:-1 tvg-id="htv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/104px-Htv_logo.svg.png", HTV
 http://45.5.119.202:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="history.mx" tvg-logo="https://i.pinimg.com/originals/89/13/35/891335ab8b899c23d65fc248c9616eae.jpg",HISTORY CHANNEL
 http://45.5.119.202:8000/play/a018/index.m3u8
@@ -95,9 +95,9 @@ http://45.5.119.202:8000/play/a01v/index.m3u8
 http://45.5.119.202:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="mtv.co" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV
 http://45.5.119.202:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="mtv.co" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV 00S
+#EXTINF:-1 tvg-id="mtv.co" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV 00s
 http://45.5.119.202:8000/play/a00l/index.m3u8
-#EXTINF:-1,MTV 80s
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV 80s
 http://45.5.119.202:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="mtv.co" tvg-logo="https://i.pinimg.com/originals/95/8a/bb/958abbae47f621ed49c9d44a7dd752bb.jpg",MTV HD
 http://45.5.119.202:8000/play/a033/index.m3u8
@@ -125,7 +125,7 @@ http://45.5.119.202:8000/play/a01m/index.m3u8
 http://45.5.119.202:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",STUDIO UNIVERSAL
 http://45.5.119.202:8000/play/a01z/index.m3u8
-#EXTINF:-1,Sun Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Sun Chanel
 http://45.5.119.202:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="foxsyfy.la" tvg-logo="https://seeklogo.com/images/S/syfy-logo-356212C6E8-seeklogo.com.png",SYFY
 http://45.5.119.202:8000/play/a015/index.m3u8
@@ -133,7 +133,7 @@ http://45.5.119.202:8000/play/a015/index.m3u8
 http://45.5.119.202:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="tcm.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/120px-TCM_logo.svg.png" ,TCM
 http://45.5.119.202:8000/play/a00o/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-id="tnt.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/120px-TLC_Logo.svg.png?20160813160308",TLC
 http://45.5.119.202:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="tnt.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",TNT
 http://45.5.119.202:8000/play/a02v/index.m3u8
