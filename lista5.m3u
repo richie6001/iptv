@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:123,[COLOR red][B][I]12/06/2022 Update Elaborado Por Richie6001-------[/I][/B][/COLOR]
+#EXTINF:123,[COLOR red][B][I]13/06/2022 Update Elaborado Por Richie6001-------[/I][/B][/COLOR]
 https://fr03.ytmp3cut.com/ad8353f85d58274da7b10/Mi%20Corazon%20Encantado%20-%20Dragon%20Ball%20GT%20Letra.mp3
 #EXTINF:-1 tvg-id="Telemetro.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="Undefined",Telemetro (720p)
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
@@ -67,6 +67,8 @@ http://45.5.119.202:8000/play/a00i/index.m3u8
 http://45.5.119.202:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-logo="http://i.imgur.com/tsBxDxY.png",FOX SPORT 3
 http://45.5.119.202:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/120px-TUDN_Logo.svg.png",TUDN
+http://190.124.166.227:9000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="golden.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/120px-Canal_Golden_logo.svg.png",Golden
 http://45.5.119.202:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="history2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/H2_channel_logo.PNG/120px-H2_channel_logo.PNG",H2
