@@ -5,10 +5,14 @@ https://fr03.ytmp3cut.com/ad8353f85d58274da7b10/Mi%20Corazon%20Encantado%20-%20D
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-id="rpcpanama" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rpc-television-panama-logo.png", RPC Panamá
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TVMAXPANAMA.svg/120px-TVMAXPANAMA.svg.png", Tv Max Panamá
+http://45.226.67.3:58001/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="OyeTV.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IqLT2CC.png" group-title="Music",Oye TV (480p)
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (540p)
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/files/hg/282479/png/nex-canal-21-panama-logo.png",Next TV Panamá
+http://45.226.67.3:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="aande.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png",A&E
 http://45.5.119.202:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/120px-Amc_logo.svg.png",AMC
