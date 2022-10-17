@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-id="A&EMundo",A&E Mundo
 http://190.131.228.59:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="AXN",AXN
+#EXTINF:-1 tvg-id="axn.mx" tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s640/AXN-novo-logotipo2016.png",AXN
 http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
 http://190.131.228.59:8000/play/a05o/index.m3u8
