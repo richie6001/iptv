@@ -187,5 +187,7 @@ http://190.131.228.59:8000/play/a04m/index.m3u8
 http://190.131.228.59:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-id="ZonaLatina",Zona Latina
 http://190.131.228.59:8000/play/a043/index.m3u8
+#EXTINF:-1,Bloomberg HD
+http://194.76.186.55:8888/udp/239.17.216.96:1234
 #EXTINF:-1 tvg-id="Zoom",Zoom
 http://190.131.228.59:8000/play/a00d/index.m3u8
