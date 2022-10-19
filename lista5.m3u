@@ -142,7 +142,7 @@ http://190.131.228.59:8000/play/a062/index.m3u8
 http://190.131.228.59:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="631tnts2.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/631.png",TNT SPORTS 2
 http://190.131.228.59:8000/play/a059/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="tntseries.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/96px-TNT_Series_Logo_2016.png",TNT SERIES HD
 http://190.131.228.59:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="TRO",TRO
 http://190.131.228.59:8000/play/a00e/index.m3u8
