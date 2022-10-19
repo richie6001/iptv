@@ -20,7 +20,7 @@ http://190.131.228.59:8000/play/a0i4/index.m3u8
 http://190.131.228.59:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN ESPAÑOL
 http://190.131.228.59:8000/play/a052/index.m3u8
-#EXTINF:-1,Canal Caracol
+#EXTINF:-1 tvg-id="caracol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/120px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL
 http://190.131.228.59:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucional",Canal Institucional
 http://190.131.228.59:8000/play/a008/index.m3u8
