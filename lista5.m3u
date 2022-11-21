@@ -82,14 +82,10 @@ http://190.131.228.59:8000/play/a065/index.m3u8
 http://190.131.228.59:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="goltv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/120px-GolTV_logo.svg.png",GOL TV
 http://190.131.228.59:8000/play/a05u/index.m3u8
-#EXTINF:-1,GOL
-http://79.116.17.196:8000/play/a0k9
-#EXTINF:-1,Gol Mundial 2 HD
-http://79.116.17.196:8000/play/a0m8
-#EXTINF:-1,Gol Mundial HD
-http://79.116.17.196:8000/play/a0m6
-#EXTINF:-1,Gol Mundial HD.
-http://79.116.17.196:8000/play/a0m7
+#EXTINF:-1,Tigo Sports HD
+http://200.52.154.125:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="Tigo Sports HD",Tigo Sports HD
+http://45.5.117.239:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://190.131.228.59:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
