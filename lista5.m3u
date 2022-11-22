@@ -84,7 +84,7 @@ http://190.131.228.59:8000/play/a066/index.m3u8
 http://190.131.228.59:8000/play/a05u/index.m3u8
 #EXTINF:-1,Tigo Sports HD
 http://200.52.154.125:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="Tigo Sports HD",Tigo Sports HD
+#EXTINF:-1 tvg-id="Tigo Sports 2 HD",Tigo Sports 2 HD 
 http://45.5.117.239:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://190.131.228.59:8000/play/a09a/index.m3u8
