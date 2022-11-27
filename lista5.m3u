@@ -88,6 +88,10 @@ http://200.52.154.125:8000/play/a032/index.m3u8
 http://45.5.117.239:8000/play/a062/index.m3u8
 #EXTINF:-1,TYC Sports Play
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1,Claro Sports 1 HD
+http://45.174.84.154:8000/play/a00n/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://45.174.84.154:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO
 http://190.131.228.59:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
