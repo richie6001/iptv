@@ -150,6 +150,8 @@ http://186.189.222.204:8001/play/a00u/index.m3u8
 http://186.189.222.204:8001/play/a01y/index.m3u8
 #EXTINF:-1,078 TLC
 http://186.189.222.204:8001/play/a01i/index.m3u8
+#EXTINF:-1,TLC HD
+http://179.51.169.254:7000/play/a01r
 #EXTINF:-1,079 A&E
 http://186.189.222.204:8001/play/a01e/index.m3u8
 #EXTINF:-1,080 Discovery ID
