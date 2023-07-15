@@ -52,24 +52,22 @@ http://186.189.222.204:8001/play/a013/index.m3u8
 http://186.189.222.204:8001/play/a014/index.m3u8
 #EXTINF:-1,021 Fox Sport 3
 http://186.189.222.204:8001/play/a00m/index.m3u8
-#EXTINF:-1,066. ESPN (Nuevos)
-http://190.122.186.88:8000/play/a0hx/index.m3u8
-#EXTINF:-1,067. ESPN +(Nuevos)
-http://190.122.186.88:8000/play/a0fc/index.m3u8
-#EXTINF:-1,068. ESPN 2(Nuevos)
-http://190.122.186.88:8000/play/a0hy/index.m3u8
-#EXTINF:-1,069. ESPN 2 HD(Nuevos)
-http://190.122.186.88:8000/play/a0jp/index.m3u8
-#EXTINF:-1,070. ESPN 3(Nuevos)
-http://190.122.186.88:8000/play/a0gi/index.m3u8
-#EXTINF:-1,071. ESPN 3 HD(Nuevos)
-http://190.122.186.88:8000/play/a0jo/index.m3u8
-#EXTINF:-1,072. ESPN 4(Nuevos)
-http://190.122.186.88:8000/play/a0iz/index.m3u8
-#EXTINF:-1,073. ESPN 4 HD(Nuevos)
-http://190.122.186.88:8000/play/a0jh/index.m3u8
-#EXTINF:-1,074. ESPN HD(Nuevos)
-http://190.122.186.88:8000/play/a0jn/index.m3u8
+#EXTINF:-1,ESPN +(Nuevos2)
+http://181.78.105.146:8800/play/a04i
+#EXTINF:-1,ESPN 2 HD(Nuevos2)
+http://181.78.105.146:8800/play/a055
+#EXTINF:-1,ESPN 3(Nuevos2)
+http://181.78.105.146:8800/play/a025
+#EXTINF:-1,ESPN 3 HD(Nuevos2)
+http://181.78.105.146:8800/play/a054
+#EXTINF:-1,ESPN 4(Nuevos2)
+http://181.78.105.146:8800/play/a06r
+#EXTINF:-1,ESPN 4 HD(Nuevos2)
+http://181.78.105.146:8800/play/a079
+#EXTINF:-1,ESPN Extra(Nuevos2)
+http://181.78.105.146:8800/play/a07r
+#EXTINF:-1,ESPN HD(Nuevos2)
+http://181.78.105.146:8800/play/a053
 #EXTINF:-1,023 HTV
 http://186.189.222.204:8001/play/a016/index.m3u8
 #EXTINF:-1,024 MTV
