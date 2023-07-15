@@ -4,9 +4,9 @@ https://nl05.ytmp3cut.com/81506d3e5eb68769a7b17/Dragon%20Ball%20GT%20Opening%20L
 #EXTM3U
 #EXTINF:123,[COLOR red][B][I]15/07/2023 Update Por dodompau-------[/I][/B][/COLOR]
 https://nl05.ytmp3cut.com/81506d3e5eb68769a7b17/Dragon%20Ball%20GT%20Opening%20Latino%20Full%20HD%201080p%20Creditless%20%5BMi%20Coraz%C3%B3n%20Encantado%5D.mp3
-#EXTINF:-1,Canal 13 - PAN
+#EXTINF:-1 tvg-id="Telemetro.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="Undefined",Telemetro
 http://181.175.41.170:8000/play/a0j5
-#EXTINF:-1,Canal 2 - PAN
+#EXTINF:-1 tvg-id="tvnpanama" tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá
 http://190.185.123.134:8000/play/a03a/index.m3u8
 #EXTINF:-1,002 Guatevision
 http://186.189.222.204:8001/play/a001/index.m3u8
