@@ -8,6 +8,22 @@ https://nl05.ytmp3cut.com/81506d3e5eb68769a7b17/Dragon%20Ball%20GT%20Opening%20L
 http://181.175.41.170:8000/play/a0j5
 #EXTINF:-1 tvg-id="tvnpanama" tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá
 http://190.185.123.134:8000/play/a03a/index.m3u8
+#EXTINF:-1,071 HBO Family HD
+http://186.189.222.204:8001/play/a00x/index.m3u8
+#EXTINF:-1,090 HBO Plus HD
+http://186.189.222.204:8001/play/a02l/index.m3u8
+#EXTINF:-1,091 HBO2 HD
+http://186.189.222.204:8001/play/a02k/index.m3u8
+#EXTINF:-1,HBO Family HD (Nuevos)
+http://190.185.123.134:8000/play/a032/index.m3u8
+#EXTINF:-1,HBO HD (Nuevos)
+http://190.185.123.134:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO Plus HD (Nuevos)
+http://190.185.123.134:8000/play/a031/index.m3u8
+#EXTINF:-1,HBO XTREME (Nuevos)
+http://190.185.123.134:8000/play/a033/index.m3u8
+#EXTINF:-1,HBO2 HD (Nuevos)
+http://190.185.123.134:8000/play/a030/index.m3u8
 #EXTINF:-1,002 Guatevision
 http://186.189.222.204:8001/play/a001/index.m3u8
 #EXTINF:-1,003 Canal 3
@@ -126,16 +142,12 @@ http://186.189.222.204:8001/play/a00k/index.m3u8
 http://186.189.222.204:8001/play/a017/index.m3u8
 #EXTINF:-1,068 Sony Channel
 http://186.189.222.204:8001/play/a01c/index.m3u8
-#EXTINF:-1,070 HBO HD
-http://186.189.222.204:8001/play/a00w/index.m3u8
 #EXTINF:-1,072 Warner
 http://186.189.222.204:8001/play/a01d/index.m3u8
 #EXTINF:-1,074 CineCanal
 http://186.189.222.204:8001/play/a01z/index.m3u8
 #EXTINF:-1,075 DHE
 http://186.189.222.204:8001/play/a00u/index.m3u8
-#EXTINF:-1,076 HBO XTREME
-http://186.189.222.204:8001/play/a02b/index.m3u8
 #EXTINF:-1,077 Studio Universal
 http://186.189.222.204:8001/play/a01y/index.m3u8
 #EXTINF:-1,078 TLC
@@ -168,14 +180,8 @@ http://186.189.222.204:8001/play/a02n/index.m3u8
 http://186.189.222.204:8001/play/a02o/index.m3u8
 #EXTINF:-1,095 VENUS
 http://186.189.222.204:8001/play/a02p/index.m3u8
-#EXTINF:-1,071 HBO Family HD
-http://186.189.222.204:8001/play/a00x/index.m3u8
 #EXTINF:-1,073 CineMax
 http://186.189.222.204:8001/play/a01x/index.m3u8
-#EXTINF:-1,090 HBO Plus HD
-http://186.189.222.204:8001/play/a02l/index.m3u8
-#EXTINF:-1,091 HBO2 HD
-http://186.189.222.204:8001/play/a02k/index.m3u8
 #EXTINF:-1,PENTHOUSE HD
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 #EXTINF:-1,HUSTLER HD
