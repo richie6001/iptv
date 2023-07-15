@@ -8,21 +8,21 @@ https://nl05.ytmp3cut.com/81506d3e5eb68769a7b17/Dragon%20Ball%20GT%20Opening%20L
 http://181.175.41.170:8000/play/a0j5
 #EXTINF:-1 tvg-id="tvnpanama" tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá
 http://190.185.123.134:8000/play/a03a/index.m3u8
-#EXTINF:-1,071 HBO Family HD
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY HD
 http://186.189.222.204:8001/play/a00x/index.m3u8
-#EXTINF:-1,090 HBO Plus HD
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus HD
 http://186.189.222.204:8001/play/a02l/index.m3u8
-#EXTINF:-1,091 HBO2 HD
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 HD
 http://186.189.222.204:8001/play/a02k/index.m3u8
-#EXTINF:-1,HBO Family HD (Nuevos)
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Family-Asia-logo-svg.png", HBO FAMILY HD (Nuevos)
 http://190.185.123.134:8000/play/a032/index.m3u8
-#EXTINF:-1,HBO HD (Nuevos)
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png", HBO HD (Nuevos)
 http://190.185.123.134:8000/play/a02z/index.m3u8
-#EXTINF:-1,HBO Plus HD (Nuevos)
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HBO-Plus.jpg" group-title="Series", HBO Plus HD (Nuevos)
 http://190.185.123.134:8000/play/a031/index.m3u8
-#EXTINF:-1,HBO XTREME (Nuevos)
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/120px-HBO_Xtreme.svg.png", HBO XTREME (Nuevos)
 http://190.185.123.134:8000/play/a033/index.m3u8
-#EXTINF:-1,HBO2 HD (Nuevos)
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2 HD (Nuevos)
 http://190.185.123.134:8000/play/a030/index.m3u8
 #EXTINF:-1,002 Guatevision
 http://186.189.222.204:8001/play/a001/index.m3u8
@@ -158,15 +158,15 @@ http://186.189.222.204:8001/play/a01e/index.m3u8
 http://186.189.222.204:8001/play/a01r/index.m3u8
 #EXTINF:-1,081 HGTV
 http://186.189.222.204:8001/play/a02c/index.m3u8
-#EXTINF:-1,082 Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/47/7f/4c/477f4c5b3cd6733171842bf8ffc3b717.jpg",ANIMAL PLANET
 http://186.189.222.204:8001/play/a01g/index.m3u8
-#EXTINF:-1,083 Discovery Channel
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",DICOVERY CHANNEL
 http://186.189.222.204:8001/play/a01f/index.m3u8
 #EXTINF:-1,084 Discovery Home & Health
 http://186.189.222.204:8001/play/a01q/index.m3u8
 #EXTINF:-1,085 Discovery Turbo
 http://186.189.222.204:8001/play/a01p/index.m3u8
-#EXTINF:-1,086 History Channel
+#EXTINF:-1 tvg-id="history.mx" tvg-logo="https://i.pinimg.com/originals/89/13/35/891335ab8b899c23d65fc248c9616eae.jpg",HISTORY CHANNEL
 http://186.189.222.204:8001/play/a01h/index.m3u8
 #EXTINF:-1,087 History Channel 2
 http://186.189.222.204:8001/play/a011/index.m3u8
@@ -178,16 +178,16 @@ http://186.189.222.204:8001/play/a02m/index.m3u8
 http://186.189.222.204:8001/play/a02n/index.m3u8
 #EXTINF:-1,094 AXN
 http://186.189.222.204:8001/play/a02o/index.m3u8
-#EXTINF:-1,095 VENUS
-http://186.189.222.204:8001/play/a02p/index.m3u8
 #EXTINF:-1,073 CineMax
 http://186.189.222.204:8001/play/a01x/index.m3u8
-#EXTINF:-1,PENTHOUSE HD
+#EXTINF:-1 tvg-id="penthouse.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Penthouse_text_logo.svg/120px-Penthouse_text_logo.svg.png",Penthouse
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 #EXTINF:-1,HUSTLER HD
 http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1,PLAYBOY HD
+#EXTINF:-1 tvg-id="playboy.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/338px-PlayboyLogo.svg.png" ,PLAYBOY TV
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1,BRAZZERS HD
 http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1,095 VENUS
+http://186.189.222.204:8001/play/a02p/index.m3u8
 
