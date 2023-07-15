@@ -6,6 +6,8 @@ https://nl05.ytmp3cut.com/81506d3e5eb68769a7b17/Dragon%20Ball%20GT%20Opening%20L
 https://nl05.ytmp3cut.com/81506d3e5eb68769a7b17/Dragon%20Ball%20GT%20Opening%20Latino%20Full%20HD%201080p%20Creditless%20%5BMi%20Coraz%C3%B3n%20Encantado%5D.mp3
 #EXTINF:-1,Canal 13 - PAN
 http://181.175.41.170:8000/play/a0j5
+#EXTINF:-1,Canal 2 - PAN
+http://190.185.123.134:8000/play/a03a/index.m3u8
 #EXTINF:-1,002 Guatevision
 http://186.189.222.204:8001/play/a001/index.m3u8
 #EXTINF:-1,003 Canal 3
@@ -34,6 +36,24 @@ http://186.189.222.204:8001/play/a013/index.m3u8
 http://186.189.222.204:8001/play/a014/index.m3u8
 #EXTINF:-1,021 Fox Sport 3
 http://186.189.222.204:8001/play/a00m/index.m3u8
+#EXTINF:-1,066. ESPN (Nuevos)
+http://190.122.186.88:8000/play/a0hx/index.m3u8
+#EXTINF:-1,067. ESPN +(Nuevos)
+http://190.122.186.88:8000/play/a0fc/index.m3u8
+#EXTINF:-1,068. ESPN 2(Nuevos)
+http://190.122.186.88:8000/play/a0hy/index.m3u8
+#EXTINF:-1,069. ESPN 2 HD(Nuevos)
+http://190.122.186.88:8000/play/a0jp/index.m3u8
+#EXTINF:-1,070. ESPN 3(Nuevos)
+http://190.122.186.88:8000/play/a0gi/index.m3u8
+#EXTINF:-1,071. ESPN 3 HD(Nuevos)
+http://190.122.186.88:8000/play/a0jo/index.m3u8
+#EXTINF:-1,072. ESPN 4(Nuevos)
+http://190.122.186.88:8000/play/a0iz/index.m3u8
+#EXTINF:-1,073. ESPN 4 HD(Nuevos)
+http://190.122.186.88:8000/play/a0jh/index.m3u8
+#EXTINF:-1,074. ESPN HD(Nuevos)
+http://190.122.186.88:8000/play/a0jn/index.m3u8
 #EXTINF:-1,023 HTV
 http://186.189.222.204:8001/play/a016/index.m3u8
 #EXTINF:-1,024 MTV
